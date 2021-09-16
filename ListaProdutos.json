@@ -1,0 +1,4932 @@
+﻿[
+  {
+    "id": "f80a3531-1752-4fb8-a4ea-cad04456a480",
+    "name": "Macarrão INST. Parati 70g Picanha",
+    "category_name": null,
+    "external_code": "45119",
+    "ean": "7896011107462",
+    "price": 1.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "add357e2-cc53-4cb7-8fc0-b2ce2cc53cf2",
+    "name": "Tempeiro verde uni",
+    "category_name": null,
+    "external_code": "29834",
+    "ean": "",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5f783718-7a0d-4139-bd42-c25784e6ce2a",
+    "name": "Shampoo Seda 325ml Ceramidas",
+    "category_name": null,
+    "external_code": "37683",
+    "ean": null,
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "68f57068-0dc5-4433-861d-57b6f3753aea",
+    "name": "Shampoo Seda 325ml Restauração Instantânea",
+    "category_name": null,
+    "external_code": "37688",
+    "ean": null,
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1cd2a3a0-aa62-4f59-ab50-3ff3c3a70020",
+    "name": "Repelente Repelex 200ml Aerosol",
+    "category_name": null,
+    "external_code": "7831",
+    "ean": "78902312",
+    "price": 13.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "03d93ba5-5b88-49c3-a73b-3b46d77f02a0",
+    "name": "VINAGRE KOLLER 300ML BALSAMICO",
+    "category_name": null,
+    "external_code": "45803",
+    "ean": "7896399300370",
+    "price": 13.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "8ae755d7-f7a1-40a6-8380-b2f46bf2655c",
+    "name": "ATUM CPC RALADO 170G OLEO",
+    "category_name": null,
+    "external_code": "47010",
+    "ean": "784639312047",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "62b07675-674b-481e-b2b7-ec2401ff1bb6",
+    "name": "Biscoito Germani 400g Sortido",
+    "category_name": null,
+    "external_code": "47329",
+    "ean": "7898045271584",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "77b46521-3f3f-4363-b8eb-98196454ef14",
+    "name": "Café NESCafé 50g DESCaféINADO",
+    "category_name": null,
+    "external_code": "22580",
+    "ean": "7891000026403",
+    "price": 5.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ebb3350d-c294-47ea-8095-d5915fd83a6f",
+    "name": "Batata doce rosa kg",
+    "category_name": null,
+    "external_code": "29773",
+    "ean": "",
+    "price": 3.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "20c273f0-8e40-4568-a869-c01ef0bf1e9e",
+    "name": "Berinjela kg",
+    "category_name": null,
+    "external_code": "29776",
+    "ean": "",
+    "price": 10.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "81447522-a029-41d2-95ae-1ade6f25733a",
+    "name": "CAFE LOR CAPSULA 52 G EXPRESSO LUNGO",
+    "category_name": null,
+    "external_code": "48543",
+    "ean": "7896089088335",
+    "price": 18.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "0a91c9e7-9124-4991-8eb1-4106a6170fb7",
+    "name": "Erva Mate Vier 1kg Tradicional Vacuo",
+    "category_name": null,
+    "external_code": "22486",
+    "ean": "7896295200019",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4a1016c6-f16f-4913-8336-873ba01f1564",
+    "name": "SORVETE NOBRELLI 1,8L DUO BAUN/CHOC",
+    "category_name": null,
+    "external_code": "47677",
+    "ean": "",
+    "price": 10.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "54db4f03-9850-4354-a6ce-6f0f48bc20af",
+    "name": "Creme de Leite Nestle 200g TP",
+    "category_name": null,
+    "external_code": "4762",
+    "ean": "7891000126905",
+    "price": 3.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7bb25df6-c6cb-483d-887a-cce7757c3598",
+    "name": "Pudim Apti 50g Caramelo",
+    "category_name": null,
+    "external_code": "27529",
+    "ean": null,
+    "price": 1.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ab706402-5fd5-42f3-85c6-bc25cac04366",
+    "name": "café caboclo 500g tradicional",
+    "category_name": null,
+    "external_code": "22269",
+    "ean": null,
+    "price": 8.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f35b82fc-d74a-44a7-afa6-8518a0e957e6",
+    "name": "café iguaçu 180g soluvel lata tradicional",
+    "category_name": null,
+    "external_code": "42145",
+    "ean": null,
+    "price": 9.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "49c78455-4440-4cc2-9f33-3545a1b99f1f",
+    "name": "café Melitta 500g tradicional",
+    "category_name": null,
+    "external_code": "21119",
+    "ean": null,
+    "price": 10.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5d966834-3aba-45cd-96d8-afbeef7cb6ec",
+    "name": "café Melitta 500g extra forte",
+    "category_name": null,
+    "external_code": "22256",
+    "ean": null,
+    "price": 10.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ff1f07e7-c687-4f0c-8441-6874d8f0013a",
+    "name": "Achocolatado NEILAR 700g CHOOKY FORCE",
+    "category_name": null,
+    "external_code": "45015",
+    "ean": "7896706304169",
+    "price": 10.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d616d4f5-2a3a-4f23-8428-e3a9e3a6c939",
+    "name": "Achocolatado PO CHOCOLATTO 400g",
+    "category_name": null,
+    "external_code": "49397",
+    "ean": "7896224803090",
+    "price": 6.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5f423a5a-a4e4-4d61-b57d-fc36960393f0",
+    "name": "Café Iguacu 200g Capuccino CLASSIC",
+    "category_name": null,
+    "external_code": "22576",
+    "ean": "7896019201537",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d38c15aa-15e9-4588-b3e0-6b0b703bf221",
+    "name": "Mistura PARA CUCA PANFACIL 1kg CUCA ALEMA",
+    "category_name": null,
+    "external_code": "46559",
+    "ean": "7898665611708",
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d6b59a50-e879-4058-b7e3-842ed87d1700",
+    "name": "Saponáceo Bombril 300g PO Classico",
+    "category_name": null,
+    "external_code": "27955",
+    "ean": "7891022852707",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ba1afb6d-eab5-4529-95bc-ddb5d3746042",
+    "name": "Bebida Lacte Pia 540gr",
+    "category_name": null,
+    "external_code": "3706",
+    "ean": "",
+    "price": 2.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0a7c8366-2d0e-474b-89e8-7845958f20d9",
+    "name": "Alvejante Girando Sol 2lt",
+    "category_name": null,
+    "external_code": "5605",
+    "ean": null,
+    "price": 5.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7982128d-5352-45fb-9d1c-28b42d8fb4c7",
+    "name": "Alvejante Q'boa 1lt floral",
+    "category_name": null,
+    "external_code": "46287",
+    "ean": null,
+    "price": 3.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fe99ccbe-bf4d-4582-939c-3d9d6caa9aad",
+    "name": "Alvejante Q'boa 2lt floral",
+    "category_name": null,
+    "external_code": "48397",
+    "ean": null,
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2af617bf-4462-4c3a-b892-52c0040a334c",
+    "name": "Alvejante Q'boa 2lt lavanda",
+    "category_name": null,
+    "external_code": "48398",
+    "ean": null,
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6826b97b-7ad8-481d-8284-08f1eb76f7d6",
+    "name": "amaciante aquafast 2lt frescor da manhã",
+    "category_name": null,
+    "external_code": "39936",
+    "ean": null,
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ccc81b78-a0ab-4f9b-822a-0a6a79ba3944",
+    "name": "Evita Mofo Mon Bijou 130g Harmonia",
+    "category_name": null,
+    "external_code": "49249",
+    "ean": null,
+    "price": 9.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "713aba7a-63b5-4145-8198-b8882d1eed50",
+    "name": "Pano Perfex Antibactericida c/ 5 Rosa",
+    "category_name": null,
+    "external_code": "19532",
+    "ean": null,
+    "price": 6.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f89dde09-2cfd-4d92-8c90-931e9aac27cb",
+    "name": "OLEO DE SOJA LEVE 900 ML PET",
+    "category_name": null,
+    "external_code": "10057",
+    "ean": "7896018900035",
+    "price": 7.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "22621f52-015a-4243-a761-9d2f7bed60f5",
+    "name": "Sabão em Pó TIXAN YPE 1kg Maciez",
+    "category_name": null,
+    "external_code": "3553",
+    "ean": null,
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1062a9cd-a43c-4ce8-9fb6-04de38b16ee1",
+    "name": "Limpador Q BOA 500ml Frutas Cítricas",
+    "category_name": null,
+    "external_code": "15054",
+    "ean": null,
+    "price": 3.09,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d5e320db-271e-416f-9c2f-4241af9cf365",
+    "name": "Amaciante ROUPA QBOA 500ml CONCENTRADO SEDUÇÃO",
+    "category_name": null,
+    "external_code": "46291",
+    "ean": "7896083800971",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ed9086cd-243b-49bc-ad1b-6ea4d6b5aa68",
+    "name": "Limpador Veja 500ml X-14 TIRA LIMO CLORO ATIVO",
+    "category_name": null,
+    "external_code": "8155",
+    "ean": "7891035209505",
+    "price": 11.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4cd2b2ca-5f58-43fd-8b64-e3c1aeb4a253",
+    "name": "Amaciante YPE LV2L PG1,8L INTENSO",
+    "category_name": null,
+    "external_code": "40826",
+    "ean": "7896098902493",
+    "price": 7.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "beef2cd9-7b99-4ab2-8fa7-a7f3b88d9f9b",
+    "name": "Limpador Vanish 500ml RESOLV PRE-LAVAGEM",
+    "category_name": null,
+    "external_code": "8230",
+    "ean": "7891035017001",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c2d3d2b1-fda8-4b8b-95dd-44f318460076",
+    "name": "Alvejante Vanish 1kg MAX WHITE",
+    "category_name": null,
+    "external_code": "48467",
+    "ean": "7891035051326",
+    "price": 27.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "953215b2-79fc-40fa-9a5e-48f0c360df47",
+    "name": "Sopão Neilar 200g Carne",
+    "category_name": null,
+    "external_code": "43435",
+    "ean": "7896706303995",
+    "price": 3.49,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "48306640-d2d2-4a63-96d9-bbdfddefb4e7",
+    "name": "Carvão Ecomais 4kg MIX",
+    "category_name": null,
+    "external_code": "46986",
+    "ean": "7898994546535",
+    "price": 10.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "454badab-6906-4831-84fc-5c390af26886",
+    "name": "Sorvete Apti 120g Morango Sache",
+    "category_name": null,
+    "external_code": "5721",
+    "ean": "7896327500131",
+    "price": 3.49,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "6d4da801-5155-4c68-a83c-854f2ba58e71",
+    "name": "Café três corações 500g extra forte",
+    "category_name": null,
+    "external_code": "22152",
+    "ean": null,
+    "price": 8.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "12fb360b-7e69-465d-b962-886b474ae15b",
+    "name": "Bebida Lactea ELEGE 1L CHOCO",
+    "category_name": null,
+    "external_code": "47525",
+    "ean": "7891097101472",
+    "price": 6.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0c6e4ee6-82f8-42cb-b1ff-702dc26a6081",
+    "name": "café iguaçu 140g capuccino light",
+    "category_name": null,
+    "external_code": "6307",
+    "ean": null,
+    "price": 6.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "41a9a2df-bf0d-4800-9da3-7ff515cfb4e1",
+    "name": "café caboclo 500g extra forte",
+    "category_name": null,
+    "external_code": "27894",
+    "ean": null,
+    "price": 8.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6c06fe68-c883-4885-9440-dbfe383cd5cc",
+    "name": "Café TRES CORACOES 250g Tradicional A VACUO",
+    "category_name": null,
+    "external_code": "22148",
+    "ean": "7896005800362",
+    "price": 6.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d7e5f1fd-df06-46d7-b999-8815ad6ecdfd",
+    "name": "Sabonete biocrema 90g esfoliante",
+    "category_name": null,
+    "external_code": "12007",
+    "ean": null,
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ef404140-ef42-4b75-ab69-087cb58cc257",
+    "name": "Café Iguacu 500g Tradicional VACUO",
+    "category_name": null,
+    "external_code": "22183",
+    "ean": "7896019205191",
+    "price": 8.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "94ff50c1-0480-4b4f-b538-23930fede323",
+    "name": "Sabonete Biocrema 90g speed care",
+    "category_name": null,
+    "external_code": "13372",
+    "ean": null,
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1233a824-b839-4b9e-92b2-37eb66ecaf3a",
+    "name": "Sabonete Palmolive 150g framboesa e turmalina",
+    "category_name": null,
+    "external_code": "28706",
+    "ean": null,
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "67051f15-d31c-4550-bd8a-d9bdb9a87fa9",
+    "name": "Alvejante Girando Sol 1lt",
+    "category_name": null,
+    "external_code": "5604",
+    "ean": null,
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3bc269b4-c202-43a7-86ad-7a1a5984b7e1",
+    "name": "Alvejante Mekal 2lt s/ cloro",
+    "category_name": null,
+    "external_code": "28213",
+    "ean": null,
+    "price": 9.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2160608e-5b0b-401b-8408-8039da020278",
+    "name": "Alvejante Q'boa 1lt Lavanda",
+    "category_name": null,
+    "external_code": "6176",
+    "ean": null,
+    "price": 3.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9202bd0b-ee74-42d6-90a1-d36ac4cc18db",
+    "name": "Amaciante Aquafast 2lt Sedução",
+    "category_name": null,
+    "external_code": "39937",
+    "ean": null,
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a392745e-afb3-450c-a3ba-9678c3ffa2cf",
+    "name": "Biscoito Parati 105g Sucrilhos Chocolate",
+    "category_name": null,
+    "external_code": "48643",
+    "ean": "7896004006628",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5e53473e-976c-4c58-aac5-06eb45007b0b",
+    "name": "Amaciante Aquafast 2lt Magia",
+    "category_name": null,
+    "external_code": "39938",
+    "ean": null,
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "38efeacb-56c9-4732-ac3b-1dee0750f815",
+    "name": "Anti Mofo Mon Bijou 130g Neutro",
+    "category_name": null,
+    "external_code": "48738",
+    "ean": "7891022856064",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3458f292-d156-459b-a0a9-aed4ff2cc6f7",
+    "name": "Alvejante Vanish 1kg O2 MAX PINK",
+    "category_name": null,
+    "external_code": "48468",
+    "ean": "7891035051333",
+    "price": 27.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "da91727d-1ed0-4454-9048-2b58b3789bd8",
+    "name": "VINAGRE BALSAMICO MONDE 500ml VIDRO",
+    "category_name": null,
+    "external_code": "49444",
+    "ean": "7896579993729",
+    "price": 16.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "403634e0-4f87-49ab-bd97-0af5cbd6657b",
+    "name": "Acendedor TRES BARRENSE c/10 Ecologico",
+    "category_name": null,
+    "external_code": "49069",
+    "ean": "7897927300077",
+    "price": 6.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6c1ed6a5-66fb-4bc1-992e-99d8e7599980",
+    "name": "Massa REDE SUPER 500g com Ovos",
+    "category_name": null,
+    "external_code": "11901",
+    "ean": "7896007410484",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "46f2114a-b3ef-43ba-99c9-4dc3d94f5b55",
+    "name": "Sabão em Pó TIXAN YPE 1kg PRIMAVERA GRATIS 100G",
+    "category_name": null,
+    "external_code": "49575",
+    "ean": "7896098901724",
+    "price": 8.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7f0ce821-de51-4204-85e4-60aaf87312ff",
+    "name": "Saco de Lixo Bio Lixo 100L Amarelo c/ 15",
+    "category_name": null,
+    "external_code": "34918",
+    "ean": "7898941667092",
+    "price": 16.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4e1c8dd3-63b4-4757-9fd8-6f9a17b65a85",
+    "name": "Mistura PARA PAO  PANFACIL 1kg QUINOA CHIA",
+    "category_name": null,
+    "external_code": "46557",
+    "ean": "7898665611272",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "279304fc-0749-40cf-b982-52ce7cf74e6b",
+    "name": "EVITA MOFO MON BIJOU 130G HARMONIA",
+    "category_name": null,
+    "external_code": "49429",
+    "ean": "7891022856057",
+    "price": 9.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3b2df5d6-6cfd-4c77-9e9b-4dc30eabefbd",
+    "name": "MILHO PIPOCA SINHA 500 G PREMIUM",
+    "category_name": null,
+    "external_code": "15364",
+    "ean": "7892300030107",
+    "price": 4.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "352ec0c7-40f3-4907-b444-8d196a0d84c1",
+    "name": "EVITA MOFO MON BIJOU 130G HARMONIA",
+    "category_name": null,
+    "external_code": "49429",
+    "ean": "7891022856057",
+    "price": 9.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "12ccdd37-e41b-41a6-b85d-56783ec02215",
+    "name": "Pudim APTI 50g Caramelo",
+    "category_name": null,
+    "external_code": "27539",
+    "ean": "7896327514923",
+    "price": 1.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d1b8a31d-9c43-48a0-b018-4e4e6c2ff2f9",
+    "name": "MILHO PIPOCA PINDUCA 500 G GOLD",
+    "category_name": null,
+    "external_code": "12982",
+    "ean": "7896015940010",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f8a77c47-51e1-459e-9ae6-1971e80c15cf",
+    "name": "TEMPERO SAZON 60G LEGUMES",
+    "category_name": null,
+    "external_code": "23069",
+    "ean": "7891132019403",
+    "price": 4.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b6e8805c-0fff-488f-a1e8-2fb9726ef9e9",
+    "name": "Multi Uso Q BOA 500ml Floral",
+    "category_name": null,
+    "external_code": "44007",
+    "ean": "7896083800711",
+    "price": 3.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "66f26426-2cf2-4670-b54a-3c8ba94124de",
+    "name": "Cerveja Devassa 473ml",
+    "category_name": null,
+    "external_code": "41757",
+    "ean": "7898904771729",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9ec045ad-7db4-4ad7-a5a7-1cf428ab5b14",
+    "name": "Biscoito Parati 105g Sucrilhos Leite",
+    "category_name": null,
+    "external_code": "48644",
+    "ean": "7896004006611",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c8aed866-79c0-4bb3-9e4d-bae7d11e9327",
+    "name": "Polentina QUAKER 500g",
+    "category_name": null,
+    "external_code": "3326",
+    "ean": "7894321631011",
+    "price": 2.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "69a939c2-7bd5-432c-b3bf-e94cdc8eab92",
+    "name": "Cereal MATINAL NESCAU 210G",
+    "category_name": null,
+    "external_code": "43771",
+    "ean": "7891000111161",
+    "price": 7.7,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "993dc8f5-5227-4a9d-b33e-cb9d53e1444d",
+    "name": "Saco de Lixo Riofort 50L c/ 30",
+    "category_name": null,
+    "external_code": "44996",
+    "ean": "7898111824102",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "22c2676b-9b82-418e-8815-82abda4604da",
+    "name": "Sardinha Somag c/ Tomate 125Gr",
+    "category_name": null,
+    "external_code": "45121",
+    "ean": "7898342050493",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e49c414a-3eae-48d5-8e77-015a5268172f",
+    "name": "Saco de Lixo Riofort 30L c/ 50",
+    "category_name": null,
+    "external_code": "44994",
+    "ean": "7898111824096",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4ee4eab3-a399-4d7f-a72a-f7073547718d",
+    "name": "Limpador Vanish 500ml KARPEX TAPETES CARPETES",
+    "category_name": null,
+    "external_code": "5639",
+    "ean": "7891035200007",
+    "price": 15.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "561451d0-7304-4338-b98e-80df1fb433c0",
+    "name": "PEPINOS TAUA 300 G SUAVE",
+    "category_name": null,
+    "external_code": "12494",
+    "ean": "7891031112403",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "13f3e63e-acbe-481b-8230-d2b11c93177b",
+    "name": "Queijo mussarela fatiado kg",
+    "category_name": null,
+    "external_code": "29491",
+    "ean": "",
+    "price": 27.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "fd80cebf-5242-42ec-bf87-d35850bbc8fd",
+    "name": "Amaciante ROUPA Q BOA 2L MACIEZ DELICADESA",
+    "category_name": null,
+    "external_code": "44272",
+    "ean": "7896083800933",
+    "price": 6.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d90fb427-5d93-4939-8fb5-c1adfecdf0ce",
+    "name": "Café Melitta 50g SOLUVEL INSTANTANEO REFIL",
+    "category_name": null,
+    "external_code": "22549",
+    "ean": "7891021007429",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7968169b-c77e-4017-be48-a333de87e6c1",
+    "name": "Melão espanhol cepi kg",
+    "category_name": null,
+    "external_code": "48139",
+    "ean": "",
+    "price": 5.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6b0d3239-31c3-45e7-96e3-770604d1bebb",
+    "name": "Massa Isabela 500g Macarrão",
+    "category_name": null,
+    "external_code": "22440",
+    "ean": "7896022029029",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "01d579b4-b402-43a9-abf8-dc7bf8a578ba",
+    "name": "Laranja de umbigo comun kg",
+    "category_name": null,
+    "external_code": "29789",
+    "ean": "",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3cea84df-75a7-428f-92bc-43e7a5d636fe",
+    "name": "Chocolate Neugebauer ",
+    "category_name": null,
+    "external_code": "45818",
+    "ean": "7891330017348",
+    "price": 4.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4615f965-12c4-40dd-8696-bb6bcd76cc6a",
+    "name": "Pipoca Yoki  microondas100g",
+    "category_name": null,
+    "external_code": "3011",
+    "ean": "7891095100125",
+    "price": 2.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "378db0e4-24a5-4c2f-abc3-a03be76b5f54",
+    "name": "MAIONESE SALADA 200G SACHE",
+    "category_name": null,
+    "external_code": "24295",
+    "ean": "7891080154591",
+    "price": 2.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9f52b9b9-d278-492f-84a2-3121814c2314",
+    "name": "Massa Isabela 500g Tortilhone",
+    "category_name": null,
+    "external_code": "22410",
+    "ean": "7896022027025",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ce2f9f23-5ebb-432f-b564-6c04e3be63bf",
+    "name": "Iogurte Ninho Polpa 540Gr",
+    "category_name": null,
+    "external_code": "44438",
+    "ean": "7891000261026",
+    "price": 5.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "73247748-d88e-4177-8e83-77bb25a3ae38",
+    "name": "AZEITE OLIVA MORIXE 500ML EXTRA VIRGEM",
+    "category_name": null,
+    "external_code": "49416",
+    "ean": "7790199603115",
+    "price": 18.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "267043fc-41ca-4a35-ab34-f8868ba67197",
+    "name": "Açúcar Cristal UNIAO 1kg",
+    "category_name": null,
+    "external_code": "22017",
+    "ean": "7891959014612",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "50c69dd3-b89a-40a1-a347-8e34f07b0b52",
+    "name": "ATUM COQUEIRO 170G RALADO NATURAL",
+    "category_name": null,
+    "external_code": "48446",
+    "ean": "7896009301124",
+    "price": 6.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d346856f-cfb4-42cd-858b-be6a915b857f",
+    "name": "Biscoito Minueto 135g Cookies & Cream",
+    "category_name": null,
+    "external_code": "46891",
+    "ean": "7896011108285",
+    "price": 1.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6ccf70b7-55f8-4d66-9c97-7f848d80983a",
+    "name": "Carne Moida de 2º kg",
+    "category_name": null,
+    "external_code": "30421",
+    "ean": "",
+    "price": 24.98,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "69936d3e-d326-45d0-8836-98e375154297",
+    "name": "MOLHO PRONTO QUERO 340G TRADICIONAL SACHE",
+    "category_name": null,
+    "external_code": "9886",
+    "ean": "7896102509410",
+    "price": 1.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "19b961c8-c610-4027-bf19-d651e618f177",
+    "name": "MILHO PIPOCA FRITZ E FRIDA 500 G",
+    "category_name": null,
+    "external_code": "3029",
+    "ean": "7890300000557",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fc69eb29-08d5-4065-84c3-2a305d793458",
+    "name": "Sagu NUTRIROSA 500g TP 01",
+    "category_name": null,
+    "external_code": "19467",
+    "ean": "7898007270693",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5db7363f-3fcc-4694-a21a-14af490d8ee2",
+    "name": "PEPINO CONSERVA NUTRIROSA 300 G",
+    "category_name": null,
+    "external_code": "10747",
+    "ean": "7898007270723",
+    "price": 6.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "bca477cd-fdb2-49ed-a640-039e96aa2eb7",
+    "name": "Arroz PRIMO BERLEZE 2kg BRANCO T1",
+    "category_name": null,
+    "external_code": "41370",
+    "ean": "763831000051",
+    "price": 8.29,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "e57762c4-aa3e-45ce-a4a8-94cc7f19a514",
+    "name": "Erva Mate Elacy 1kg Tradicional",
+    "category_name": null,
+    "external_code": "18312",
+    "ean": "7896558552107",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "28f70e19-b988-47c3-9245-8c9a151b73d5",
+    "name": "Alvejante Mekal 2lt Tradicional",
+    "category_name": null,
+    "external_code": "10117",
+    "ean": "7898258400016",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0519036b-a847-404c-9b5e-87f1c1b5c55a",
+    "name": "ATUM RALADO GOMES DA COSTA 170G LIGHT",
+    "category_name": null,
+    "external_code": "11479",
+    "ean": "7891167011779",
+    "price": 6.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5350eca9-4558-4efd-a824-c36f1470b469",
+    "name": "Mamão formosa kg",
+    "category_name": null,
+    "external_code": "29796",
+    "ean": "",
+    "price": 4.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "334061f8-8d36-433d-be3a-f9307112ecd6",
+    "name": "ÓLEO DE SOJA COAMO 900 ML PET",
+    "category_name": null,
+    "external_code": "12304",
+    "ean": "7896279600538",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "eaa6972d-32f6-4519-9920-ae0826c5d08a",
+    "name": "Pepino salada kg",
+    "category_name": null,
+    "external_code": "29807",
+    "ean": "",
+    "price": 5.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ee979daa-30c8-4b6f-92c7-a65ca53b28ca",
+    "name": "VINHO JOTA PE 3L BCO SECO",
+    "category_name": null,
+    "external_code": "43819",
+    "ean": "7896452100299",
+    "price": 44.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "881f288b-c653-4e54-a101-33740821eb60",
+    "name": "SUCO UVA PLENNO 1,5L",
+    "category_name": null,
+    "external_code": "48756",
+    "ean": "7898638060366",
+    "price": 10.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3815876f-60cb-4163-864b-adef35602c44",
+    "name": "Carne Moida de 1º kg",
+    "category_name": null,
+    "external_code": "30420",
+    "ean": "",
+    "price": 40.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "fd2211c6-853f-4724-a64c-cb42db303ead",
+    "name": "Arroz Bella Dica 1kg T1 BRANCO",
+    "category_name": null,
+    "external_code": "23093",
+    "ean": "7896305700256",
+    "price": 5.19,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "74d02b04-8cb5-4d36-9fec-b378d2273436",
+    "name": "Alho embalado",
+    "category_name": null,
+    "external_code": "29671",
+    "ean": "",
+    "price": 9.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a53882b0-c228-4c44-9aea-a500dc7c4b2f",
+    "name": "Gengibre kg",
+    "category_name": null,
+    "external_code": "29859",
+    "ean": "",
+    "price": 28.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6dcd3213-7456-47bd-a080-5091e5371aaf",
+    "name": "Mamão papaya kg",
+    "category_name": null,
+    "external_code": "30549",
+    "ean": "",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a3c25cfe-36d4-479d-baed-5bc5e61e98e3",
+    "name": "Repolho verde kg",
+    "category_name": null,
+    "external_code": "29422",
+    "ean": "",
+    "price": 1.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3b33feb1-2db0-4c7a-ab45-ebc0ae7896ad",
+    "name": "Sabão em Pó Girando Sol 1kg Herbal SACHE",
+    "category_name": null,
+    "external_code": "5332",
+    "ean": "7896404606657",
+    "price": 6.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f38b3028-adc6-497d-8340-9127516161c5",
+    "name": "Rucula kg",
+    "category_name": null,
+    "external_code": "29815",
+    "ean": "",
+    "price": 14.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e4297708-6276-415c-a5b2-1bc232800d11",
+    "name": "Repolho roxo kg",
+    "category_name": null,
+    "external_code": "29552",
+    "ean": "",
+    "price": 5.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "06b5aef6-e7ee-47f0-85f5-b816b0dc7c38",
+    "name": "Radite kg",
+    "category_name": null,
+    "external_code": "29640",
+    "ean": "",
+    "price": 12.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d4149d85-2ebd-4638-bfa5-c9005c99608b",
+    "name": "Abobrinha italiana kg",
+    "category_name": null,
+    "external_code": "29766",
+    "ean": "",
+    "price": 6.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6ff50959-d873-4472-873d-3023cb8a9e55",
+    "name": "Ovos vermelhos dúzia",
+    "category_name": null,
+    "external_code": "29435",
+    "ean": "",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "36824126-4349-4185-942d-970eb17100c7",
+    "name": "Álcool GEL 70° TUPI 500G",
+    "category_name": null,
+    "external_code": "49442",
+    "ean": "7898360980055",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "80f2e98d-0652-459c-9cd7-dff3fea6441a",
+    "name": "Saponáceo YPE 300ml Cremoso Lavanda",
+    "category_name": null,
+    "external_code": "48883",
+    "ean": "7896098904350",
+    "price": 5.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3f61e76e-1298-47f4-bc1e-2b969708b91a",
+    "name": "Sagu Bella Dica 500g",
+    "category_name": null,
+    "external_code": "46312",
+    "ean": "7896305700560",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "108499bf-eb72-492a-9d17-a7acdd0253e8",
+    "name": "Escova Bettanin Betta Jeans UN",
+    "category_name": null,
+    "external_code": "3319",
+    "ean": "7896001001152",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7b648127-dbc5-4adb-bf0d-984fcadb2500",
+    "name": "Limpador Limpol 500ml Lavanda",
+    "category_name": null,
+    "external_code": "44778",
+    "ean": "7891022860504",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f40020d7-7cee-41cb-b744-bd6271ae3ba1",
+    "name": "FARINHA MANDIOCA NUTRIROSA 500G TORRADA",
+    "category_name": null,
+    "external_code": "21377",
+    "ean": "7898007270112",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b61c178d-71d4-4a8a-aad4-6314d624cbb3",
+    "name": "MILHO PIPOCA SERRA URUGUAI 500G",
+    "category_name": null,
+    "external_code": "27927",
+    "ean": "7898175500110",
+    "price": 3.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3564e16a-7c8f-4dc4-aba0-9eb925bde3fb",
+    "name": "Álcool LIQ TUPI 500ml NEUTRO 46,2 INPM",
+    "category_name": null,
+    "external_code": "43541",
+    "ean": "7898910095208",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "67c184e6-9767-42a8-9dfb-344ecacd994d",
+    "name": "Fosforo Fiat Lux 50 un Extra Longos",
+    "category_name": null,
+    "external_code": "6254",
+    "ean": "7896007941254",
+    "price": 3.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7f4686df-c618-4b89-9572-69d23125ffb9",
+    "name": "Picanha Medalhão Pompeira Resf. Kg ",
+    "category_name": null,
+    "external_code": "51413",
+    "ean": "",
+    "price": 39.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6b11790e-d5ed-4081-b247-ec78f832e92c",
+    "name": "CAFE LOR CAPSULA 52 G FORZA UTZ",
+    "category_name": null,
+    "external_code": "",
+    "ean": "",
+    "price": 15.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "0ebc9f10-8396-45e9-ad4f-a3d31a1887cb",
+    "name": "MOLHO ELEGE 200G BRANCO",
+    "category_name": null,
+    "external_code": "9872",
+    "ean": "7896079513915",
+    "price": 3.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "04e67763-1450-495a-9d1c-ed24ab295f3c",
+    "name": "Entrecot Nobre Resf. Kg",
+    "category_name": null,
+    "external_code": "41950",
+    "ean": "",
+    "price": 44.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9a4fb6df-ef9b-4688-9adf-37d62a549639",
+    "name": "CAFE LOR CAPSULA 52 G EXPRESSO LUNGO",
+    "category_name": null,
+    "external_code": "48543",
+    "ean": "7896089088335",
+    "price": 18.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "67e17197-2785-4539-88e5-5cf76c71a9be",
+    "name": "Biscoito Orquidea Tortissimas 130g Chocolate ao Leite",
+    "category_name": null,
+    "external_code": "9002",
+    "ean": "7896412802461",
+    "price": 1.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e30ab686-b929-4ffe-8890-fbba0f569ed3",
+    "name": "Sopão KITANO 196g Feijão com Macarrão e Bacon",
+    "category_name": null,
+    "external_code": "10951",
+    "ean": "7891095007165",
+    "price": 4.79,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "3a6db6bd-17d6-47ae-8b24-a1416a5d1309",
+    "name": "Leite Po Elege 300g Desnatado LATA",
+    "category_name": null,
+    "external_code": "22614",
+    "ean": "7896079577757",
+    "price": 10.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0c162650-0e25-45bb-9054-860c96a41640",
+    "name": "CAFE LOR CAPSULA 52 G EXPRESSO LUNGO",
+    "category_name": null,
+    "external_code": "48544",
+    "ean": "8711000362570",
+    "price": 18.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "834e592f-74d0-4cb2-b731-4a96c4aabc55",
+    "name": "Arroz Blue Ville Parbolizado 2Kg ",
+    "category_name": null,
+    "external_code": "5745",
+    "ean": "7896011900032",
+    "price": 8.69,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "8cdf468e-04bd-4185-ad6c-7ef82c7d4c3a",
+    "name": "Escova Bettanin Madeira Brilhus UN",
+    "category_name": null,
+    "external_code": "41028",
+    "ean": "7896001020337",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "49f5b7f1-4754-43a7-a669-5b082ca6fd91",
+    "name": "Arroz Rede Super 5kg BRANCO T1",
+    "category_name": null,
+    "external_code": "6481",
+    "ean": "7896272701058",
+    "price": 18.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "41cd8bb2-80f4-48ca-ab83-c79c158fc321",
+    "name": "Alvejante Vanish 500ml SACHE WHITE",
+    "category_name": null,
+    "external_code": "19359",
+    "ean": "7891035040436",
+    "price": 8.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "8e15c934-1357-434a-b93a-9c447fe7d772",
+    "name": "MOLHO ELEGE 200G 4 QUEIJOS",
+    "category_name": null,
+    "external_code": "46417",
+    "ean": "7891097101502",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "55314ca5-038e-4a35-9723-46205af51c1d",
+    "name": "Café Iguacu 200g Capuccino C CANELA",
+    "category_name": null,
+    "external_code": "22611",
+    "ean": "7896019206174",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7aee202a-e9bc-481c-8166-ff6abf425fa3",
+    "name": "Biscoito Isabela 400g Kuki",
+    "category_name": null,
+    "external_code": "22266",
+    "ean": "7896022054359",
+    "price": 7.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "22cc00e3-5c25-4fbf-8f3c-4c315e25df81",
+    "name": "Chopp Pauliceia 2Lt",
+    "category_name": null,
+    "external_code": "50088",
+    "ean": "",
+    "price": 19.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "dc35dc56-287c-44d3-925b-ff7c8fe1d4a4",
+    "name": "Detergente YPE 500ml NEUTRO",
+    "category_name": null,
+    "external_code": "3212",
+    "ean": "7896098900208",
+    "price": 2.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4e2dc8e0-633d-4aa0-865d-a4d7867e188c",
+    "name": "Gelatina Apti 35g Framboesa Fonte de Vitaminas",
+    "category_name": null,
+    "external_code": "20185",
+    "ean": "7896327514169",
+    "price": 1.09,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "68415723-5edc-47d2-a02d-9e55069d3203",
+    "name": "Erva Mate Taquapy 1kg Laminada",
+    "category_name": null,
+    "external_code": "14762",
+    "ean": "7898103760036",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6f830e55-2d0a-4641-86bc-e9f3526a42ee",
+    "name": "AZEITE DE OLIVA BORGES 500ML EXTRA VIRGEM",
+    "category_name": null,
+    "external_code": "49989",
+    "ean": "8410179200828",
+    "price": 22.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "05afd8f3-aa62-4d1b-ab7f-aafefe925b9e",
+    "name": "Repelente Repelex 200ml Aerosol",
+    "category_name": null,
+    "external_code": "9114",
+    "ean": "7891035620003",
+    "price": 24.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3c5cdfd1-84f0-40df-a099-b486babf772b",
+    "name": "Biscoito Isabela 400g Cream Cracker",
+    "category_name": null,
+    "external_code": "22264",
+    "ean": "7896022054311",
+    "price": 6.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "29837d49-5bb2-456b-869d-74473c16da81",
+    "name": "Esponja de Aço Divinox",
+    "category_name": null,
+    "external_code": "27358",
+    "ean": "7896484000178",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b4e07c57-2aa8-419b-83ea-b9ea36c02484",
+    "name": "Café Iguacu 200g Capuccino C CHOCOLATE",
+    "category_name": null,
+    "external_code": "22557",
+    "ean": "7896019207294",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2f71da89-212d-4683-bd80-87ae9db5cf68",
+    "name": "Lentilha FRITZEFRIDA 500g",
+    "category_name": null,
+    "external_code": "21552",
+    "ean": "7890300000465",
+    "price": 5.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5976f811-4356-4e38-ac19-a06d86c4e1a2",
+    "name": "FEIJAO GASPARIN 1KG PRETO",
+    "category_name": null,
+    "external_code": "42054",
+    "ean": "7898941416164",
+    "price": 6.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "31db78c2-6710-4f59-aafb-c2f012435145",
+    "name": "EXTRATO TOMATE PRIMOR 340G",
+    "category_name": null,
+    "external_code": "45667",
+    "ean": "7891080170614",
+    "price": 2.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "cf46ab18-1e99-44df-a0c1-1b76bd82cbed",
+    "name": "VINAGRE PRINZ 300ML BALSAMICO",
+    "category_name": null,
+    "external_code": "9801",
+    "ean": "7896407500280",
+    "price": 13.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "196546d7-7f04-437a-9d02-f03971a2ca0c",
+    "name": "Mistura PARA PAO  PANFACIL 1kg CENTEIO",
+    "category_name": null,
+    "external_code": "48709",
+    "ean": "7898665611845",
+    "price": 5.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "705aacbe-0c61-48c4-b71d-16eda48b329b",
+    "name": "Pizza Perdigão Calabresa Moída 460gr",
+    "category_name": null,
+    "external_code": "51027",
+    "ean": "7891515555917",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "78f98932-10fd-4446-87b7-50c744f08596",
+    "name": "Chopp Bairrista 1L",
+    "category_name": null,
+    "external_code": "50561",
+    "ean": "7898641061589",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a4808113-2547-43af-be89-4d5ce7972177",
+    "name": "Sal Apolo 1kg MARINHO MOIDO ORIGINAL",
+    "category_name": null,
+    "external_code": "39041",
+    "ean": "7896027912012",
+    "price": 1.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0ab7725e-c97a-498a-8fd4-8efafffdaede",
+    "name": "Café NESCafé 50g TRADICAO REFIL FORTE",
+    "category_name": null,
+    "external_code": "21990",
+    "ean": "7891000010860",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2d64d391-0802-4ffa-9f05-5f2e2242129d",
+    "name": "Sabão Barra Girando Sol 200g Neutro",
+    "category_name": null,
+    "external_code": "17649",
+    "ean": "7896404606381",
+    "price": 2.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "852a1ef9-3be0-4ff1-94be-9ac1398d6f79",
+    "name": "Bebida Lactea PIA 1L CHOCOLATERIA",
+    "category_name": null,
+    "external_code": "38224",
+    "ean": "7896348843859",
+    "price": 5.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6e82b2c3-c326-4621-9b62-2e2d65eab75b",
+    "name": "Repelente Xo Mosquito 200ml Spray",
+    "category_name": null,
+    "external_code": "44982",
+    "ean": "7895098874632",
+    "price": 14.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "829a7db9-8f69-4de0-aa1d-90dae4c3174f",
+    "name": "MOLHO SHOYU MITSUWA 500ML TRADICIONAL",
+    "category_name": null,
+    "external_code": "13055",
+    "ean": "7896054905100",
+    "price": 7.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a96c3654-1f40-41b3-9166-f46999673692",
+    "name": "Açúcar cristal 5kg gasparin",
+    "category_name": null,
+    "external_code": "36271",
+    "ean": "7898941416034",
+    "price": 17.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "46092203-7ea4-4891-bd95-a13bee1483fe",
+    "name": "Farinha Mandioca Maniva 520g AMARELA PET",
+    "category_name": null,
+    "external_code": "44471",
+    "ean": "7898222750758",
+    "price": 2.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f15ed6e1-b0ac-4fe7-b01b-112c82bdcb07",
+    "name": "AZEITE OLIVA UNIAGRO 500ML MEDITERRANEO",
+    "category_name": null,
+    "external_code": "49443",
+    "ean": "7896579950807",
+    "price": 23.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1ffca891-5ad1-4977-8f8f-99b14755e551",
+    "name": "Polenta PERDIZ 500g INSTANTANEA",
+    "category_name": null,
+    "external_code": "5503",
+    "ean": "7896274102754",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d6b0dd6b-7c55-4724-8da9-8c1c0bf804a6",
+    "name": "Requeijão Nestle 200Gr Tradicional",
+    "category_name": null,
+    "external_code": "16352",
+    "ean": "7891000084649",
+    "price": 8.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b7b137b4-987b-424d-80b1-e3a633757acd",
+    "name": "PEPINO CONSERVA ODERICH 300G TRADICIONAL",
+    "category_name": null,
+    "external_code": "13662",
+    "ean": "7896041157048",
+    "price": 8.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c6bd4bdf-9485-405e-977e-c18ecb98411f",
+    "name": "Moranga kabotiá kg",
+    "category_name": null,
+    "external_code": "29428",
+    "ean": "",
+    "price": 0.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "28eb689c-f0b5-41d1-a84b-4ec1521f9aeb",
+    "name": "laranja suco kg",
+    "category_name": null,
+    "external_code": "29788",
+    "ean": "",
+    "price": 2.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d4b84e2d-bf8f-48fd-8556-ed23ca4a510c",
+    "name": "PAPEL HIG ASTORIA C/4 30M FS NEUTRO",
+    "category_name": null,
+    "external_code": "3297",
+    "ean": "7896233700151",
+    "price": 4.29,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "5961bfdf-4c22-4bf0-8f62-72cd02847442",
+    "name": "Batata inglesa rosa",
+    "category_name": null,
+    "external_code": "28999",
+    "ean": "",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "52f2c8b1-7b73-4318-b008-ca7cdc8566f2",
+    "name": "TEMPERO COMPLETO ODERICH 300 G ALHO E SAL",
+    "category_name": null,
+    "external_code": "12208",
+    "ean": "7896041180107",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "206812c6-63d0-4368-8503-5a7261b5107d",
+    "name": "Biscoito Parati 140g Zoo Cartoon CHOC CHOC.Branco",
+    "category_name": null,
+    "external_code": "22783",
+    "ean": "7896011102849",
+    "price": 1.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2fe27c39-f56b-41bd-a948-c32728d5dc01",
+    "name": "Maça fuji kg",
+    "category_name": null,
+    "external_code": "29793",
+    "ean": "",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "14869989-beec-49e7-b061-974762570464",
+    "name": "Massa NUTRIROSA 500g Caseira",
+    "category_name": null,
+    "external_code": "48739",
+    "ean": "7898917804582",
+    "price": 3.89,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "c3fc6b15-db68-4465-b15e-5b1bfae0f972",
+    "name": "Agua Saborizada H2O 500ml",
+    "category_name": null,
+    "external_code": "9156",
+    "ean": "7892840812423",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f811ec70-eff7-4c18-ae6a-3dbd0db114ea",
+    "name": "Sabão Barra Girando Sol 200g Multiuso Glicerina",
+    "category_name": null,
+    "external_code": "17799",
+    "ean": "7896404600297",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "60f84dce-5842-49f2-8536-451662b6468d",
+    "name": "MOLHO TOMATE SALSARETTI 340G PIZZA",
+    "category_name": null,
+    "external_code": "38160",
+    "ean": "7891080147142",
+    "price": 3.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "85920c48-f22c-4dc4-a0ab-1dcea4976cb9",
+    "name": "Wafer Bauducco 140g Morango",
+    "category_name": null,
+    "external_code": "17611",
+    "ean": "7891962037004",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "af8276dc-57d8-4409-933d-cd95df562126",
+    "name": "Pão de Alho Mestre Pão 310gr Picante",
+    "category_name": null,
+    "external_code": "48514",
+    "ean": "7896216101845",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9c907630-f1f8-4c11-807f-c71b054a8c17",
+    "name": "MOLHO SHOYU MITSUWA 500ML PREMIUM SASHIMI",
+    "category_name": null,
+    "external_code": "48402",
+    "ean": "7896054905049",
+    "price": 7.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f22c9b7e-2b74-40df-a819-9da1a5129be2",
+    "name": "Açúcar refinado 1kg união",
+    "category_name": null,
+    "external_code": "23088",
+    "ean": "7891910000197",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c185b383-ba7d-4b3f-ae5b-06004c710029",
+    "name": "MAIONESE SALADA 500G PET",
+    "category_name": null,
+    "external_code": "24582",
+    "ean": "7891080154607",
+    "price": 5.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f0398166-a825-4880-9c77-deebc20c42a0",
+    "name": "Arroz Tio Arthur 5Kg T1",
+    "category_name": null,
+    "external_code": "43159",
+    "ean": "7896754600077",
+    "price": 19.88,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "7511a9fe-acbe-4cb5-9645-66deaa7c3a15",
+    "name": "MAIONESE ODERICH 170G ATUM",
+    "category_name": null,
+    "external_code": "9491",
+    "ean": "7896041190618",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9bd51fc6-07ce-4eea-8684-23c73724f683",
+    "name": "Canjão NEILAR 200g Galinha com Arroz",
+    "category_name": null,
+    "external_code": "43433",
+    "ean": "7896706304015",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f382817e-5367-425f-b1dc-8607f617bdcb",
+    "name": "Fosforo Billa Extra Longos 9,5cm ",
+    "category_name": null,
+    "external_code": "41576",
+    "ean": "7898958192082",
+    "price": 2.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "cafde29d-7be2-480f-8a48-b03d4c800cbc",
+    "name": "Chocolate Neugebauer ",
+    "category_name": null,
+    "external_code": "49310",
+    "ean": "7891330017959",
+    "price": 4.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "278d88f2-a88a-41b6-8f2a-428a1e95baed",
+    "name": "Refri Sukita Uva 2lt",
+    "category_name": null,
+    "external_code": "9823",
+    "ean": "7891149102808",
+    "price": 4.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1db026b4-96cd-44a2-9e76-48c341b6f38e",
+    "name": "Suco de Uva Plenno1,5L",
+    "category_name": null,
+    "external_code": "48756",
+    "ean": "7898638060366",
+    "price": 10.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f29be0f9-ceb7-4b91-8b7e-81a2790859cf",
+    "name": "Alvejante Q BOA 2L",
+    "category_name": null,
+    "external_code": "3062",
+    "ean": "7896083800025",
+    "price": 6.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "13136f2a-51e7-4f19-a6a8-5209262ba91d",
+    "name": "Limpador Veja Multiuso FUSION 500ml LARANJA",
+    "category_name": null,
+    "external_code": "46746",
+    "ean": "7891035990557",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fda28976-c36c-4507-a021-4e145e1640e9",
+    "name": "Batata Palha Rede Super 80g",
+    "category_name": null,
+    "external_code": "6283",
+    "ean": "7896329300364",
+    "price": 2.77,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f0654fb2-9fa2-4cf5-b3f4-a94d37c21f8e",
+    "name": "Açucar Cristal MIXCUCAR 2kg",
+    "category_name": null,
+    "external_code": "44108",
+    "ean": "7898994757924",
+    "price": 7.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0c7e0387-4da2-45de-b83b-ed5ea2664d28",
+    "name": "Biscoito Minueto 135g Doce Leite",
+    "category_name": null,
+    "external_code": "46889",
+    "ean": "7896011108292",
+    "price": 1.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "8875f9c2-488b-46eb-b216-19a6fb191bea",
+    "name": "Detergente YPE 500ml CLEAR",
+    "category_name": null,
+    "external_code": "3132",
+    "ean": "7896098900253",
+    "price": 2.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "73851f8d-cb50-48df-8551-19a1d544ffca",
+    "name": "Sagu CORSETTI 500g EXTRA",
+    "category_name": null,
+    "external_code": "19430",
+    "ean": "7896274103515",
+    "price": 4.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b76479bd-cde9-4467-9672-7ab23826915a",
+    "name": "Anti Mofo BETTANIN 80g LAVANDA",
+    "category_name": null,
+    "external_code": "43468",
+    "ean": "7896001007024",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b858ff7f-2426-49cd-b855-560242bd500f",
+    "name": "Pano Dupla Face Esfrelux",
+    "category_name": null,
+    "external_code": "46117",
+    "ean": "7896314704214",
+    "price": 5.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4e1cb589-c21e-4e90-9c96-e4aa8daea573",
+    "name": "Sopão Apti 200g Carne com Macarrão e Legumes",
+    "category_name": null,
+    "external_code": "17803",
+    "ean": "7896327514329",
+    "price": 3.79,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "dd39a205-323f-4168-8dfd-084caa41c2e0",
+    "name": "Carvão Rede Super 3kg",
+    "category_name": null,
+    "external_code": "10771",
+    "ean": "7897927300046",
+    "price": 11.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c396392b-61f4-40de-b362-defc4dbce8ac",
+    "name": "Biscoito Parati 140g Zoo Cartoon Brigadeiro",
+    "category_name": null,
+    "external_code": "40964",
+    "ean": "7896011106397",
+    "price": 1.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "adcfa315-a787-469a-9b71-a7331f7a3e07",
+    "name": "Esponja Bettanin Esfrebom Leve 4 Pague 3",
+    "category_name": null,
+    "external_code": "3662",
+    "ean": "7896001045446",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e4973c39-253c-4556-b06b-f121990b34d4",
+    "name": "Biscoito Isabela 400g Leite",
+    "category_name": null,
+    "external_code": "22233",
+    "ean": "7896022018320",
+    "price": 6.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5a7799d2-9d54-46a4-a4d7-20e943e3407d",
+    "name": "Wafer Parati 115g Minueto Morango ED.ESP.",
+    "category_name": null,
+    "external_code": "23065",
+    "ean": "7896011103747",
+    "price": 1.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "bfc6b266-495d-401b-bb5f-e758fc75bf04",
+    "name": "Feijão Rede Super 1kg PRETO",
+    "category_name": null,
+    "external_code": "6392",
+    "ean": "7896305750138",
+    "price": 7.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "8791c76e-b4df-4368-a665-3125e95d77db",
+    "name": "Escova Fricci Madeira",
+    "category_name": null,
+    "external_code": "44421",
+    "ean": "7898650900459",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "407be2af-f4ea-49c0-bb14-d40f8f14d9f4",
+    "name": "MOLHO TOMATE SALSARETTI 340 G BOLONHESA SACHET",
+    "category_name": null,
+    "external_code": "9523",
+    "ean": "7891300908683",
+    "price": 3.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f6c2253b-0fbb-4aa9-bcb2-99e47d0f07ef",
+    "name": "Sagu BOM GOSTO 400g",
+    "category_name": null,
+    "external_code": "43650",
+    "ean": "7898371331105",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "42ca2a88-a8a0-4971-bbba-4099b08bcb2c",
+    "name": "Amaciante YPE 500ml TERNURA",
+    "category_name": null,
+    "external_code": "5317",
+    "ean": "7896098900413",
+    "price": 2.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "26a4dd0f-5522-4010-8870-e816b9822315",
+    "name": "Sorvete Apti 120g Chocolate Sache",
+    "category_name": null,
+    "external_code": "5722",
+    "ean": "7896327500124",
+    "price": 3.49,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "e1b5c3f2-a7e5-4f69-b802-fd3b52d330a3",
+    "name": "ACHOCOLATADO NESCAU 800 G 2.0 ACTIGEN-E",
+    "category_name": null,
+    "external_code": "8113",
+    "ean": "7891000067178",
+    "price": 13.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "58fd216e-c28d-47b3-81bf-d32a356c7c0b",
+    "name": "Biscoito Parati 140g Zoo Cartoon Chocolate Morango",
+    "category_name": null,
+    "external_code": "9012",
+    "ean": "7896412802485",
+    "price": 1.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "04f4aa74-cfa7-45f5-9386-6c6b43e14316",
+    "name": "Erva Mate Elacy 1kg Premium Vacuo",
+    "category_name": null,
+    "external_code": "35193",
+    "ean": "7896558562618",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e10845a0-d0de-44e0-ab76-3efcba111806",
+    "name": "Detergente Girando Sol 500ml Maçã",
+    "category_name": null,
+    "external_code": "5312",
+    "ean": "7896404600563",
+    "price": 2.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "69b97052-46cb-4e69-8666-a3a253b97cf2",
+    "name": "Esponja Vip Santa Maria",
+    "category_name": null,
+    "external_code": "46109",
+    "ean": "7896314707871",
+    "price": 0.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1da23e41-742e-41fe-9ba8-fe7aea9fcd62",
+    "name": "Wafer Parati 115g Minueto Brigadeiro",
+    "category_name": null,
+    "external_code": "37623",
+    "ean": "7896011105871",
+    "price": 1.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "48633434-8db1-40f6-996c-2c57a5f65d66",
+    "name": "Arroz Kanake 5kg",
+    "category_name": null,
+    "external_code": "45108",
+    "ean": "7898949706038",
+    "price": 17.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "43f56244-a764-409b-ad68-4349c2099d45",
+    "name": "Erva Mate Vier 1kg Moída Grossa",
+    "category_name": null,
+    "external_code": "22000",
+    "ean": "7896295200712",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "55741351-c9a5-4ed8-9101-6eba5bbc5b24",
+    "name": "MAIONESE HELLMANNS 500G PET",
+    "category_name": null,
+    "external_code": "9456",
+    "ean": "7894000050034",
+    "price": 6.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4fe0ef63-e0fb-4678-b35f-6150f42eb11f",
+    "name": "Leite Po Elege 400g Integral SACHE",
+    "category_name": null,
+    "external_code": "22584",
+    "ean": "7896079510198",
+    "price": 13.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c7a1cd3a-014b-44b5-af23-5cfefdfe5c22",
+    "name": "Arroz Fighera 1kg T1",
+    "category_name": null,
+    "external_code": "45847",
+    "ean": "7898956320012",
+    "price": 4.69,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "518dd81e-b932-4bb2-969e-caf09aa75acf",
+    "name": "Cesta Básica 1",
+    "category_name": null,
+    "external_code": "50873",
+    "ean": "",
+    "price": 75.0,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3ed04ded-b018-483b-ac02-1f1d1a923318",
+    "name": "Kit Limpeza 1",
+    "category_name": null,
+    "external_code": "",
+    "ean": "",
+    "price": 39.0,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6b8efcae-b00c-45a8-8d41-65559c8e4de5",
+    "name": "Saponáceo Bombril 300g Po CLORO",
+    "category_name": null,
+    "external_code": "3338",
+    "ean": "7891022505009",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1057e0bd-ad6a-4d13-9df7-3f036577b340",
+    "name": "Massa ORQUIDEA 500g Concha",
+    "category_name": null,
+    "external_code": "22766",
+    "ean": "7896412800757",
+    "price": 3.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f5a24c52-7fae-4bc1-9526-9e0111ccdf24",
+    "name": "Macarrão INST.Parati 70g Carne",
+    "category_name": null,
+    "external_code": "4478",
+    "ean": "7896011117003",
+    "price": 1.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6e5048bb-072f-4276-b5a8-7a2941db7fa5",
+    "name": "MOLHO ELEGE 200 G TP MADEIRA",
+    "category_name": null,
+    "external_code": "9863",
+    "ean": "7896079513922",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a718213d-33d6-4653-8dac-b28b650fd580",
+    "name": "Sopão Apti 200g Feijão com Macarrão",
+    "category_name": null,
+    "external_code": "17802",
+    "ean": "7896327514343",
+    "price": 3.79,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "ccc6660c-ce00-444e-bd9e-3c3df4c4b917",
+    "name": "Cereal KELLOGGS 300g Surcrilhos Original",
+    "category_name": null,
+    "external_code": "4009",
+    "ean": "7896004002538",
+    "price": 11.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4b8e785c-7a30-4b82-808b-8165ca1519ef",
+    "name": "Cereal SUPER BALLS 200g CHOCOLATE",
+    "category_name": null,
+    "external_code": "37886",
+    "ean": "7896004003870",
+    "price": 4.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "da653e82-d974-4136-bdd5-5144cc3c9261",
+    "name": "Creme de Leite Batavo 200g TP",
+    "category_name": null,
+    "external_code": "4897",
+    "ean": "7891097017254",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "461b950a-9785-41f5-98a7-a295c6886b0e",
+    "name": "Biscoito Parati 140g Zoo Cartoon CHOC Morango",
+    "category_name": null,
+    "external_code": "22784",
+    "ean": "7896011102832",
+    "price": 1.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d5bc1507-7038-449e-8718-c3dcde59db47",
+    "name": "Bebida Lactea Friminho ",
+    "category_name": null,
+    "external_code": "22826",
+    "ean": "7896275960131",
+    "price": 1.09,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e1ed7569-e40a-49ff-8922-92eb0bd46585",
+    "name": "Biscoito Germani 280g Rosca de Chocolate",
+    "category_name": null,
+    "external_code": "41249",
+    "ean": "7898045271645",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d92d096b-d474-4b91-949d-0129c1816dc1",
+    "name": "Sabão Barra YPE 5x 200g Glicerinado Neutro",
+    "category_name": null,
+    "external_code": "3155",
+    "ean": "7896098900109",
+    "price": 6.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "23d5bd0d-3512-41dc-b35d-ea931ee2edf0",
+    "name": "Arroz Bella Dica 2kg T1 BRANCO",
+    "category_name": null,
+    "external_code": "5261",
+    "ean": "7896305700201",
+    "price": 7.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "59fd2a90-bd5e-4c31-b752-4b26a2fa73f5",
+    "name": "Biscoito Parati 370g Maizena",
+    "category_name": null,
+    "external_code": "22165",
+    "ean": "7896011102580",
+    "price": 3.77,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d5663d35-6cc2-4c67-9dd0-88df7a2d38f7",
+    "name": "Saco de Lixo Riofort 15 L c/ 100",
+    "category_name": null,
+    "external_code": "44995",
+    "ean": "7898111824089",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "60fe57a2-4f57-4d16-b6a4-c216d7e18298",
+    "name": "Açúcar refinado 1kg alto alegre",
+    "category_name": null,
+    "external_code": "3854",
+    "ean": "7896508200034",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c0d00858-dba0-4f99-9548-214e5449f88b",
+    "name": "Papel Higiênico Fofinho C/4 30M Folha Dupla Neutro",
+    "category_name": null,
+    "external_code": "17729",
+    "ean": "7896053410100",
+    "price": 6.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5d09396c-53da-4956-8bdc-6ceb40adb114",
+    "name": "PEPINO CONSERVA HEMMER 330G SUAVE",
+    "category_name": null,
+    "external_code": "49252",
+    "ean": "7891031112304",
+    "price": 9.79,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "e3b71d52-2dcd-41b8-be40-321c45f1c6c2",
+    "name": "Feijão Ruviaro 1kg PRETO",
+    "category_name": null,
+    "external_code": "29253",
+    "ean": "7898175500165",
+    "price": 5.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f3ee0c45-c1d3-49ff-9498-e73efc4ae54e",
+    "name": "Garrafa Termica Soprano c/ bico",
+    "category_name": null,
+    "external_code": "51333",
+    "ean": "7896021900763",
+    "price": 23.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "62e02a2c-5311-4be3-9eef-64bb7d12f49a",
+    "name": "Erva Mate Seiva Pura 1kg PN 1 M Grossa",
+    "category_name": null,
+    "external_code": "7533",
+    "ean": "7896616600160",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "49b25f45-54fe-480f-a2c0-88a5dbfdeb7b",
+    "name": "Salgadinho Pringles 114g Original",
+    "category_name": null,
+    "external_code": "47214",
+    "ean": "7896004006482",
+    "price": 8.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "130b18bf-77be-4911-a6e4-9d62ce25340f",
+    "name": "Macarrão instantâneo Stella d'Oro galinha",
+    "category_name": null,
+    "external_code": "26925",
+    "ean": "",
+    "price": 0.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6852803f-e6db-4bac-9b0c-d1c619991368",
+    "name": "Amaciante YPE 2L CARINHO",
+    "category_name": null,
+    "external_code": "5319",
+    "ean": "7896098902424",
+    "price": 9.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9d80614b-d5ba-47d5-9448-717c9a43e500",
+    "name": "Inseticida Raid 300ML + 150ML",
+    "category_name": null,
+    "external_code": "50475",
+    "ean": "7894650005569",
+    "price": 9.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "8648f1d1-73fb-4171-92bf-bba8f063cd92",
+    "name": "MOLHO TOMATE FUGINI 340 G MANJERICAO",
+    "category_name": null,
+    "external_code": "12434",
+    "ean": "7897517206123",
+    "price": 2.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "dc3f5f5c-9316-4260-ab37-af746011dd6c",
+    "name": "Amaciante Girando Sol 02 L ROSA LAVANDA",
+    "category_name": null,
+    "external_code": "3074",
+    "ean": "7896404600181",
+    "price": 6.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "79317b47-a6c2-489d-8db9-33a8a3ff1d87",
+    "name": "Arroz PRIMO BERLEZE 5kg BRANCO T1",
+    "category_name": null,
+    "external_code": "41321",
+    "ean": "763831000044",
+    "price": 19.8,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "8574b5c3-9f96-41ba-bca2-67cb1a85ab71",
+    "name": "Saponáceo Bombril 300g PO Limão",
+    "category_name": null,
+    "external_code": "6179",
+    "ean": "7891022503005",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6dcfa7b4-d30d-435d-aac3-d5ebac81e264",
+    "name": "Papel Higiênico Mili 60M com 04 Neutro Bianco",
+    "category_name": null,
+    "external_code": "3306",
+    "ean": "7896104998557",
+    "price": 5.49,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "5941d0d1-8db0-4917-842e-a90bf4880d4e",
+    "name": "Farinha Trigo FLOCOS DE NEVE 5kg",
+    "category_name": null,
+    "external_code": "6358",
+    "ean": "7896315400047",
+    "price": 13.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2e9d71df-3ffa-4437-b874-dde472fe2c96",
+    "name": "Gelatina Apti 35g Maracuja Fonte de Vitaminas",
+    "category_name": null,
+    "external_code": "20503",
+    "ean": "7896327514183",
+    "price": 1.09,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "703c9c19-5055-4f40-bc86-a166faed039c",
+    "name": "Doce de Leite PIA 400g Chocolate",
+    "category_name": null,
+    "external_code": "22916",
+    "ean": "7896348841879",
+    "price": 5.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2c5bd2bf-53d7-40ba-96f6-a0c8c1d90b67",
+    "name": "Biscoito Parati 370g Maria",
+    "category_name": null,
+    "external_code": "22157",
+    "ean": "7896011102542",
+    "price": 3.77,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "de719408-c2e7-4d8f-8c8b-54ef568607d8",
+    "name": "MAIONESE SOYA 200G SACHE",
+    "category_name": null,
+    "external_code": "9452",
+    "ean": "7891080405099",
+    "price": 1.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "589a7811-44ac-4386-a2ba-8c675603990c",
+    "name": "Pudim Bom Gosto 45g Coco",
+    "category_name": null,
+    "external_code": "39476",
+    "ean": "7898371333628",
+    "price": 0.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6a3c2466-a97b-4c55-a7b0-6b29dff42b84",
+    "name": "Sal SalAZIR 1kg  MARINHO MOIDO",
+    "category_name": null,
+    "external_code": "5429",
+    "ean": "7896314501196",
+    "price": 1.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e78d151c-f170-401d-a14d-c75dcabf9ef4",
+    "name": "Biscoito Minueto 135g Torta Chocolate",
+    "category_name": null,
+    "external_code": "46890",
+    "ean": "7896011108278",
+    "price": 1.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9b89fa26-01b8-4c7f-9fba-7fe04c5176ed",
+    "name": "Refri Sukita Laranja 2Lt",
+    "category_name": null,
+    "external_code": "11468",
+    "ean": "7891149440801",
+    "price": 4.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a4d4c287-b84a-40a4-8382-f918da3e65bc",
+    "name": "Doce de Leite MuMu 380g Tradicional",
+    "category_name": null,
+    "external_code": "46176",
+    "ean": "7891110071911",
+    "price": 6.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "46c56675-35c8-4563-9658-5069ee9a8796",
+    "name": "Café NESCafé 50g MATINAL REFIL",
+    "category_name": null,
+    "external_code": "22546",
+    "ean": "7891000315200",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e776d26d-ba08-46b0-98b5-39abfa59a5d5",
+    "name": "Papel Higiênico SULLEG C/4 30M Folha Dupla",
+    "category_name": null,
+    "external_code": "49414",
+    "ean": "7898955352069",
+    "price": 4.19,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "6db2aab5-73ba-4c75-a837-4a287a1f6729",
+    "name": "Limpador Q BOA 500ml Maçã Verde",
+    "category_name": null,
+    "external_code": "14302",
+    "ean": "7896083800650",
+    "price": 3.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "41967936-2f58-43a0-9941-50f823768994",
+    "name": "Cerveja Budweiser 473ml",
+    "category_name": null,
+    "external_code": "37408",
+    "ean": "7891991011723",
+    "price": 3.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f6bf3a3c-bd6b-4a28-aaea-00d30bee4972",
+    "name": "Biscoito Orquidea 400g Peti Cracker",
+    "category_name": null,
+    "external_code": "16955",
+    "ean": "7896412801693",
+    "price": 5.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "089600b9-17eb-4c66-aac3-f099b7cd9437",
+    "name": "ABSORVENTE COTTONBABY 16 UN LADY C/ABAS",
+    "category_name": null,
+    "external_code": "49272",
+    "ean": "7896227650035",
+    "price": 5.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "50cfb96d-e102-4f11-9ea6-dc6f5aaf2500",
+    "name": "Cerveja Nova Schin 473ml",
+    "category_name": null,
+    "external_code": "27946",
+    "ean": "7896052605316",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f1d12ee5-6139-4055-8a60-3d575bc58060",
+    "name": "BISCOITO PARATI 150G HOT CRACKER QUEIJO",
+    "category_name": null,
+    "external_code": "28664",
+    "ean": "7896011105499",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "387c79a2-044a-4291-bcfb-f28f692391bf",
+    "name": "REQUEIJAO PIA 400 G TRADICIONAL",
+    "category_name": null,
+    "external_code": "48239",
+    "ean": "7896348845211",
+    "price": 11.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "582a1deb-66bc-44d5-970a-22d71c737b34",
+    "name": "Biscoito Renata 360g Maria",
+    "category_name": null,
+    "external_code": "11763",
+    "ean": "7896022205218",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fd37489d-3901-48f5-88ce-9f1405be08a5",
+    "name": "Chopp Vento Negro Pilsen 1,5lt",
+    "category_name": null,
+    "external_code": "50944",
+    "ean": "7898936331076",
+    "price": 14.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5d050980-9bc5-41c0-8311-7294bc2ea15c",
+    "name": "Chopp Vento Negro Red 1,5lt",
+    "category_name": null,
+    "external_code": "50945",
+    "ean": "",
+    "price": 12.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "da3f2605-568d-43b4-9f54-1b35695abaef",
+    "name": "Arroz Blue Ville Branco 2Kg ",
+    "category_name": null,
+    "external_code": "5746",
+    "ean": "7896011906898",
+    "price": 8.39,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "70efa394-d3e3-4c75-85dd-bea08d978afb",
+    "name": "Farinha Mandioca Maniva 520g BRANCA PET PREMIUM",
+    "category_name": null,
+    "external_code": "44468",
+    "ean": "7898222750734",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "800f7f26-df58-4ef2-9dc9-51320f4464bf",
+    "name": "Saco de Lixo Bio Lixo 15L Amarelo c/ 60",
+    "category_name": null,
+    "external_code": "34916",
+    "ean": "7898941667061",
+    "price": 12.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4a6a0925-77e4-4ff4-9e34-f47b32079b95",
+    "name": "Pão de Alho Mestre Pão 310gr Trand",
+    "category_name": null,
+    "external_code": "41437",
+    "ean": "7898938227193",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "031a35e0-2c67-4c61-9b15-25a52b8a122d",
+    "name": "Sal Pirata 1kg CHURRASCO GROSSO TEMPERADO",
+    "category_name": null,
+    "external_code": "5428",
+    "ean": "7896314500144",
+    "price": 3.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d7b9b028-fd23-4d64-b6a9-f63484fe094f",
+    "name": "Detergente LIMPOL 500ml Limão",
+    "category_name": null,
+    "external_code": "3238",
+    "ean": "7891022637007",
+    "price": 2.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "77bb907a-17a3-40b6-ac15-cceafc351334",
+    "name": "Massa Parati 500g Parafuso",
+    "category_name": null,
+    "external_code": "22338",
+    "ean": "7896011107073",
+    "price": 3.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b4cbb06d-6b56-4391-ae54-dee83d793c26",
+    "name": "Amaciante ROUPA Q BOA 2L MACIEZ TERNURA",
+    "category_name": null,
+    "external_code": "35185",
+    "ean": "7896083800865",
+    "price": 6.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ea860b9b-65a2-479c-8279-3d9d5eb80367",
+    "name": "Erva Mate Seiva Pura 1kg Nativa Suave",
+    "category_name": null,
+    "external_code": "7353",
+    "ean": "7896616600207",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "951e59d6-2bea-4946-a142-03b5ab304e03",
+    "name": "PEPINO ODERICH 300G AGRIDOCE VIDRO",
+    "category_name": null,
+    "external_code": "13941",
+    "ean": "7896041157079",
+    "price": 8.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "197ec7f7-4781-417e-bd5a-e8a95f21bcad",
+    "name": "SORVETE NOBRELLI 1,8L DUO BAUN/MOR",
+    "category_name": null,
+    "external_code": "47678",
+    "ean": "7899975801940",
+    "price": 10.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "081bbed2-32cd-4fb3-84e2-a65038d06596",
+    "name": "Sabão Barra YPE 200g Flores/Frutas",
+    "category_name": null,
+    "external_code": "4261",
+    "ean": "7896098906149",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fe95c690-6b47-4189-a7c5-99196885da94",
+    "name": "Açúcar Cristal MIXCUCAR 5kg",
+    "category_name": null,
+    "external_code": "44109",
+    "ean": "7898994757917",
+    "price": 16.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ab681bca-1565-47da-8b25-891a8505b9cf",
+    "name": "Refri Soda Limonada 2Lt",
+    "category_name": null,
+    "external_code": "9535",
+    "ean": "7891991001359",
+    "price": 4.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a7f70a8b-e690-44b1-bf69-5ef89611138c",
+    "name": "Café NESCAFÉ 160g TRADICÃO VIDRO",
+    "category_name": null,
+    "external_code": "46193",
+    "ean": "7891000284230",
+    "price": 11.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f8de6f66-ba27-4bd1-b665-416f08f2ce9b",
+    "name": "BISCOITO PARATI 150G HOT CRACKER  REQUEIJAO",
+    "category_name": null,
+    "external_code": "43871",
+    "ean": "7896011107387",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fa89025f-f0b0-478e-881c-4bd69397c438",
+    "name": "Açúcar Cristal 5kg alto alegre",
+    "category_name": null,
+    "external_code": "4948",
+    "ean": "7896508200010",
+    "price": 17.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2c417f5c-6414-4895-8984-e06ca3667904",
+    "name": "Biscoito Domelly 350g Glaceado com Chocolate",
+    "category_name": null,
+    "external_code": "22986",
+    "ean": "7898088103019",
+    "price": 4.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "64fba8b7-97a9-4687-b554-a17525302ffb",
+    "name": "Biscoito Tricks ",
+    "category_name": null,
+    "external_code": "49832",
+    "ean": "7898045279399",
+    "price": 1.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4b986e34-81dc-4c89-94eb-1ee2260a7a32",
+    "name": "Lentilha CALDO OURO 500g PREMIUM",
+    "category_name": null,
+    "external_code": "47676",
+    "ean": "7896305701178",
+    "price": 7.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0af6bd43-6cc3-46d1-be0a-00eb2448e9b1",
+    "name": "Espumante San Martin 660ml Demi Seco",
+    "category_name": null,
+    "external_code": "36553",
+    "ean": "7896267774081",
+    "price": 15.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "374f62b7-3f41-4aac-827e-ddf3779f7630",
+    "name": "Espumante San Martin 660ml Moscatel",
+    "category_name": null,
+    "external_code": "36701",
+    "ean": "7896267774074",
+    "price": 15.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b79ce6bd-c179-400c-99e0-20fb4a35d287",
+    "name": "ESPUMANTE SAN MARTIN 660ML PROSECCO BRUT",
+    "category_name": null,
+    "external_code": "39482",
+    "ean": "7896267774104",
+    "price": 15.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d0705f00-007a-465e-ac56-c49369d7dbb5",
+    "name": "Bergamota ponkan kg",
+    "category_name": null,
+    "external_code": "29503",
+    "ean": "",
+    "price": 2.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d8a86907-8099-4d5a-930e-e19ae28bfdb1",
+    "name": "Banana Prata kg",
+    "category_name": null,
+    "external_code": "29221",
+    "ean": "",
+    "price": 4.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f65224b1-0429-481b-9b1a-4bc4eb665649",
+    "name": "Bergamota kg",
+    "category_name": null,
+    "external_code": "29179",
+    "ean": "",
+    "price": 3.19,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "11a10719-000d-45aa-8858-d376206f5c2d",
+    "name": "PIZZA SADIA 460 G CALABRESA",
+    "category_name": null,
+    "external_code": "8573",
+    "ean": "7893000632073",
+    "price": 11.49,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "de2bcb58-e18d-4758-8739-0a9fbaa855e8",
+    "name": "Banana Caturra kg",
+    "category_name": null,
+    "external_code": "29769",
+    "ean": "",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "472f69ba-5c9d-4a02-93c9-c776c6778962",
+    "name": "Leite Condensado Frimesa 395g",
+    "category_name": null,
+    "external_code": "4196",
+    "ean": "7896275960896",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f7eef77f-7e6d-4327-a8e6-50ab5243318a",
+    "name": "CERVEJA BRAHMA 350ML DUPLO MALTE",
+    "category_name": null,
+    "external_code": "49729",
+    "ean": "7891991294942",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1fabf503-aa59-45ca-82c6-0bfe4a292cff",
+    "name": "Detergente GOTA LIMPA 500ml NEUTRO",
+    "category_name": null,
+    "external_code": "3202",
+    "ean": "7896540900305",
+    "price": 1.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "77a5a203-ecbb-4dcf-b734-d9fabf458f3b",
+    "name": "Biscoito Parati 370g Cream Cracker",
+    "category_name": null,
+    "external_code": "22155",
+    "ean": "7896011102573",
+    "price": 3.77,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ad8a9172-1c30-4981-bfe3-df0ca9350d83",
+    "name": "Cerveja Subzero 473ml",
+    "category_name": null,
+    "external_code": "24394",
+    "ean": "7891991010153",
+    "price": 3.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "96a2ad79-c844-47b9-8c3e-bd5240f8bcfd",
+    "name": "Café Iguacu 50g SOLUVEL CLASSICO SACHE",
+    "category_name": null,
+    "external_code": "22577",
+    "ean": "7896019206761",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9009ed24-1d28-459f-8c7c-73e3212d8f6a",
+    "name": "Papel Higiênico Fofinho C/4 30M FS Neutro",
+    "category_name": null,
+    "external_code": "19343",
+    "ean": "7896053410025",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "320633f0-3d50-4c44-9eb2-ade2a35401b1",
+    "name": "Leite Condensado Frimesa 395g Semi Desnatado",
+    "category_name": null,
+    "external_code": "49006",
+    "ean": "7896275982393",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "78d61061-a1db-4dbb-9f69-a478ec0a18a4",
+    "name": "Biscoito Parati 400g Cracker Iintegral",
+    "category_name": null,
+    "external_code": "22156",
+    "ean": "7896011102610",
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "22fa8aaf-1ea2-48b6-b0c7-8772e65ac111",
+    "name": "Macarrão INST.Parati 70g Galinha",
+    "category_name": null,
+    "external_code": "39102",
+    "ean": "7896011117171",
+    "price": 1.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "463958ee-388a-497e-aaa9-53bbfc3e02b3",
+    "name": "TEMPERO SAZON 60G CARNE",
+    "category_name": null,
+    "external_code": "23084",
+    "ean": "7891132019281",
+    "price": 4.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fe85b8ed-b9db-4629-9979-c70493ff3b7b",
+    "name": "Salgadinho Pringles 120g Queijo",
+    "category_name": null,
+    "external_code": "47215",
+    "ean": "7896004006499",
+    "price": 8.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fffea905-1a55-4ee9-99d0-4ccc6d897e9f",
+    "name": "Erva Mate Rei Verde 1kg M Grossa  Zero Açucar Lam",
+    "category_name": null,
+    "external_code": "8245",
+    "ean": "7898937112032",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "eecf8c80-e5af-45dc-93fb-ddf8a776c3a8",
+    "name": "Biscoito Taquapyto 150 G Mignon Salgado",
+    "category_name": null,
+    "external_code": "25722",
+    "ean": "7898373340013",
+    "price": 3.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5ed461ed-42d1-423b-892c-49301fa05507",
+    "name": "Cereal SKARCHITOS Superboom 200g",
+    "category_name": null,
+    "external_code": "43256",
+    "ean": "7896004003856",
+    "price": 5.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3fcabb3a-34d5-45bf-b8f8-67ec43bd2730",
+    "name": "Cenoura kg",
+    "category_name": null,
+    "external_code": "30009",
+    "ean": "",
+    "price": 1.88,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9646440b-3cc9-4ed6-b066-858b42c9e3c9",
+    "name": "Detergente GOTA LIMPA 500ml MACA",
+    "category_name": null,
+    "external_code": "3199",
+    "ean": "7896540900336",
+    "price": 1.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "914a2cc4-0abe-4619-9f40-f70cbd06564e",
+    "name": "Beterraba kg",
+    "category_name": null,
+    "external_code": "29777",
+    "ean": "",
+    "price": 3.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5fefff37-d10d-43e1-ab88-3fb333ea87f0",
+    "name": "MOLHO ELEGE 200G STROGONOFF",
+    "category_name": null,
+    "external_code": "46896",
+    "ean": "7891097101519",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "bd712c4c-e6af-4a14-aea9-76c1f5995823",
+    "name": "Feijão Caldo de Ouro 1kg PRETO",
+    "category_name": null,
+    "external_code": "23106",
+    "ean": "7896305700010",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3ca297fb-f1a1-46d8-8f5c-cff04df7a2b2",
+    "name": "Batata Pre Frita Rapipap",
+    "category_name": null,
+    "external_code": "46686",
+    "ean": "7791688000323",
+    "price": 14.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "33bbb67e-1f7b-4f5b-b7ab-42552f07aa9b",
+    "name": "Bergamota s/ semente kg",
+    "category_name": null,
+    "external_code": "29212",
+    "ean": "",
+    "price": 2.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0518eb04-dd35-4860-a95c-347927f1ddc8",
+    "name": "Papel Higiênico Fofinho C/4 60M FS Cha Verde",
+    "category_name": null,
+    "external_code": "8983",
+    "ean": "7896053410629",
+    "price": 5.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "50cebd01-b430-4450-bc97-29f991670fa9",
+    "name": "Limão taiti kg",
+    "category_name": null,
+    "external_code": "29791",
+    "ean": "",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "71e39925-a2a5-4faa-b463-665a8d43fcd7",
+    "name": "Chuchu kg",
+    "category_name": null,
+    "external_code": "29782",
+    "ean": "",
+    "price": 4.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "34f0ae25-a186-4907-ada9-9072888c4cee",
+    "name": "Leite Po Elege 400g Integral LATA",
+    "category_name": null,
+    "external_code": "22582",
+    "ean": "7896079500588",
+    "price": 12.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "39ef34f7-de36-45a2-be6e-f92ca33c36c7",
+    "name": "CEREAL MATINAL NESCAU 770G  GRATIS TIGELA",
+    "category_name": null,
+    "external_code": "49194",
+    "ean": "7891000104491",
+    "price": 17.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a37119e9-83d6-453d-b0d0-e21d84f11fab",
+    "name": "Chocolate Neugebauer ",
+    "category_name": null,
+    "external_code": "45822",
+    "ean": "7891330017362",
+    "price": 4.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "80ef360d-9be6-4568-bf22-99a38b7065de",
+    "name": "Farofa PRONTA PINDUCA 250g BACON",
+    "category_name": null,
+    "external_code": "20180",
+    "ean": "7896015911744",
+    "price": 2.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "4f2901fb-aa8a-43ee-83ad-3439777f8bff",
+    "name": "Milho verde bandeja c/3",
+    "category_name": null,
+    "external_code": "29802",
+    "ean": "",
+    "price": 2.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "af6dffa1-ede2-4400-90e9-e0fc561cf5e8",
+    "name": "Massa BELL BOCCATO 400g Talharim Grosso",
+    "category_name": null,
+    "external_code": "34741",
+    "ean": "7898913771659",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ff6cd4bb-6c4b-4f3d-bd24-c1e08eb2e4f8",
+    "name": "CHULETA kg",
+    "category_name": null,
+    "external_code": "30637",
+    "ean": "",
+    "price": 33.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "1c8ac743-2322-4c2f-8b98-3343cec5eebd",
+    "name": "Osso Buco kg",
+    "category_name": null,
+    "external_code": "29826",
+    "ean": "",
+    "price": 17.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "0359bdc4-75e9-4f1a-923f-d798de92533d",
+    "name": "Ponta de agulha com osso kg",
+    "category_name": null,
+    "external_code": "30415",
+    "ean": "",
+    "price": 17.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "c7b7a908-0f78-43ef-bf13-e4735e255bf4",
+    "name": "Sabão Barra Girando Sol 200g Fresh",
+    "category_name": null,
+    "external_code": "17676",
+    "ean": "7896404606374",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d4e64b67-9be6-438e-921d-67e886716642",
+    "name": " Suco De  Uva Garibaldi 1,5 L ",
+    "category_name": null,
+    "external_code": "23925",
+    "ean": "7896034300819",
+    "price": 12.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5776158c-a68f-49e6-aa1e-94362259a2ca",
+    "name": "Massa Parati 500g Espaguete 500g NR.05",
+    "category_name": null,
+    "external_code": "22337",
+    "ean": "7896011107035",
+    "price": 3.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "19941854-aee9-4d4f-a44b-27c7d6497964",
+    "name": "Arroz Bella Dica 1kg T1 PARBOILIZADO",
+    "category_name": null,
+    "external_code": "23094",
+    "ean": "7896305700218",
+    "price": 4.19,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "188755bf-e818-4a1d-bffd-ecab193d6a42",
+    "name": "Carvão Três Barrense 5kg",
+    "category_name": null,
+    "external_code": "10772",
+    "ean": "7897927300039",
+    "price": 18.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "cbc2e0d5-0092-4c94-8526-0f6e8d6a3e42",
+    "name": "Abacate kg",
+    "category_name": null,
+    "external_code": "29450",
+    "ean": "",
+    "price": 7.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e1433216-c401-473e-ac53-6e81d2fd6e88",
+    "name": "Torta Mallet 800gr",
+    "category_name": null,
+    "external_code": "50204",
+    "ean": "7898644750411",
+    "price": 29.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2c3c1803-79c3-4eaf-a9fb-9c6a0e6c1546",
+    "name": " Batata inglesa branca kg",
+    "category_name": null,
+    "external_code": "29568",
+    "ean": "",
+    "price": 3.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0f4f556a-a32d-4a66-b56f-734fd52ea90c",
+    "name": "Sardinha Somag c/ Oleo 125Gr",
+    "category_name": null,
+    "external_code": "45120",
+    "ean": "7898342050486",
+    "price": 4.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "009a4ba6-539e-41bd-ba5b-d59c60c1156c",
+    "name": "CAFE NESCAFE 120G FORTE LT",
+    "category_name": null,
+    "external_code": "51149",
+    "ean": "7891000613054",
+    "price": 9.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7d59eb4c-eddd-4e56-9169-96f4cea26b61",
+    "name": "Alho kg",
+    "category_name": null,
+    "external_code": "30164",
+    "ean": "",
+    "price": 18.8,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2ea23417-e8c1-4eab-a584-efd81efc8c9c",
+    "name": "Sal SalSUL 1kg GROSSO",
+    "category_name": null,
+    "external_code": "42906",
+    "ean": "7898955940044",
+    "price": 1.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3b7c8c64-f4ad-4264-b323-89e82139be88",
+    "name": "Moranguinho BDJ",
+    "category_name": null,
+    "external_code": "29805",
+    "ean": "",
+    "price": 5.19,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "e4f18458-32a7-4297-868f-af9799ee1f21",
+    "name": "Água Sanitária Mil Flores 1L",
+    "category_name": null,
+    "external_code": "45824",
+    "ean": "7898016225073",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d8d93e26-4a24-46b7-8ba1-dbcd69625c09",
+    "name": "Alvejante Q'boa 1lt",
+    "category_name": null,
+    "external_code": "3085",
+    "ean": "7896083800018",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6d88caa7-ccc3-4d8a-8ad1-f6424cb53058",
+    "name": "Alvejante Q BOA 1L",
+    "category_name": null,
+    "external_code": "3085",
+    "ean": "7896083800018",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "96c05d71-c11b-46eb-baa7-aff99b2ff4c1",
+    "name": "Macarrão instantâneo Stella d'Oro carne",
+    "category_name": null,
+    "external_code": "26924",
+    "ean": "7898930141725",
+    "price": 0.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "013305bc-0bec-450c-ab75-c874e275d5f9",
+    "name": "Pizza Perdigão Brasileira 460gr",
+    "category_name": null,
+    "external_code": "51026",
+    "ean": "7891515555641",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "359a4921-fb3a-4a31-a09d-6324e95dd7ef",
+    "name": "Batata Palha Elma Chips 70g Tradicional",
+    "category_name": null,
+    "external_code": "47641",
+    "ean": "7892840814830",
+    "price": 4.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5e8c786d-f645-4271-a032-b9e439e9115c",
+    "name": "Milho verde Stella d'oro 170G",
+    "category_name": null,
+    "external_code": "49990",
+    "ean": "7898902299058",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "38a24738-a89c-4771-8bd6-b31859294725",
+    "name": "Arroz Fighera 2kg T1",
+    "category_name": null,
+    "external_code": "45530",
+    "ean": "7898956320029",
+    "price": 8.79,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "5e4f8b2e-3e20-4e5c-a446-4e35beac4772",
+    "name": "Batata Palha Vale do Sol 80g",
+    "category_name": null,
+    "external_code": "26326",
+    "ean": "7898904351464",
+    "price": 2.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c6fe044b-95c9-4bd5-b733-1bcc6e805dbe",
+    "name": "Ervilha Stella d'ouro 170g",
+    "category_name": null,
+    "external_code": "50869",
+    "ean": "7898902299379",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9f5a36e6-6886-4245-811c-1a47782e1c87",
+    "name": "Macarrão Cup Nooglles Curry",
+    "category_name": null,
+    "external_code": "47787",
+    "ean": "7891079013427",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b66c9176-f008-4bc0-95cc-3176f090a2f2",
+    "name": "Álcool ETILICO VALE VERDE 1L 46°",
+    "category_name": null,
+    "external_code": "49280",
+    "ean": "7898960419474",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "539ec41d-ad9f-4260-a88a-8aac50f08b21",
+    "name": "Espumante San Martin 660ML ROSE",
+    "category_name": null,
+    "external_code": "45094",
+    "ean": "7896267774111",
+    "price": 15.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a1bb04cd-9d27-40e6-94a9-d2d435cd319b",
+    "name": "Peito de frango sem tempero kg",
+    "category_name": null,
+    "external_code": "29708",
+    "ean": "",
+    "price": 12.98,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "0f8b0cb4-31f6-4876-8b0c-cf26b6e212e4",
+    "name": "Biscoito Parati 300g Rosca Brigadeiro",
+    "category_name": null,
+    "external_code": "40538",
+    "ean": "7896011106465",
+    "price": 3.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "87296c44-15a2-4886-84f9-bca745a732b0",
+    "name": "Limpador Limpol 500ml Multiuso Classico",
+    "category_name": null,
+    "external_code": "44883",
+    "ean": "7891022860580",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b0d1c9db-2c32-4416-b4e5-c2da4b172a94",
+    "name": "MOLHO TOMATE DAJUDA 200 G TIPO MEXICANO",
+    "category_name": null,
+    "external_code": "6939",
+    "ean": "7896054906664",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5cb95593-4ec2-416a-ab90-bbd51111f95c",
+    "name": "Detergente Girando Sol 500ml Limão",
+    "category_name": null,
+    "external_code": "4275",
+    "ean": "7896404600570",
+    "price": 2.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d8d01a53-5978-41b1-9e13-cf1284e43b80",
+    "name": "Esponja Bettanin Brilhus LV4PG3 Multiuso",
+    "category_name": null,
+    "external_code": "17775",
+    "ean": "7896001045149",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a917e2f1-1d0c-48e8-a3fb-237e655862c0",
+    "name": "Amaciante YPE 500ml ACONCHEGO",
+    "category_name": null,
+    "external_code": "5316",
+    "ean": "7896098900406",
+    "price": 2.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "678acde4-3c0f-4f0c-860c-93e27047cec0",
+    "name": "EXTRATO TOMATE SALSARETTI 330G",
+    "category_name": null,
+    "external_code": "43702",
+    "ean": "7891080149290",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1aad7fea-5908-4bf4-bb44-f2ab258fdc41",
+    "name": "LIMPADOR Q BOA 500ML FRUTAS CITRICAS",
+    "category_name": null,
+    "external_code": "16054",
+    "ean": "7896083800643",
+    "price": 3.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "259b3524-0c07-41c4-8a91-e22cbca4de90",
+    "name": "ATUM CPC RALADO 170G NATURAL",
+    "category_name": null,
+    "external_code": "47012",
+    "ean": "784639311040",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9460c6f6-6e93-4041-8196-bf13c4c108bb",
+    "name": "Limpador Aquafast 500ml Multi uso Floral",
+    "category_name": null,
+    "external_code": "20811",
+    "ean": "7898302001657",
+    "price": 4.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1b56eaf7-cd17-43be-8b82-47b54832bce4",
+    "name": "Macarrão Zeze 500g Concha",
+    "category_name": null,
+    "external_code": "17529",
+    "ean": "7896200051484",
+    "price": 4.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "18a65d52-260f-4fd2-8ade-be257c2cf0a0",
+    "name": "Limpador Veja GOLD 500ml LIMPEZA PESADA 20% DESC",
+    "category_name": null,
+    "external_code": "43849",
+    "ean": "7891035285189",
+    "price": 4.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ea97f7f7-0245-4b9a-b651-d9b8e1228639",
+    "name": "Evita Mofo Novica Soft 80g",
+    "category_name": null,
+    "external_code": "43469",
+    "ean": "7896001007017",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "27c7118c-9ac1-47ba-9376-72369ebab7fd",
+    "name": "Arroz REI ARTHUR 1kg PARBORIZADO INTEGRAL",
+    "category_name": null,
+    "external_code": "43781",
+    "ean": "7896754600534",
+    "price": 4.99,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "ab1297f9-6283-4b50-9383-52a8d0ebba18",
+    "name": "Álcool GEL CAPRICHO 450G 70º c/ Hidratante",
+    "category_name": null,
+    "external_code": "48871",
+    "ean": "7898080663740",
+    "price": 6.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "058aa37e-1762-43dc-ae65-04a4c3a68287",
+    "name": "Pano Perfex Antibacteriana c/ 5 UN Azul",
+    "category_name": null,
+    "external_code": "19218",
+    "ean": "7896090101351",
+    "price": 7.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1e68ba21-3119-4e87-bbae-5547b00602b7",
+    "name": "Anti Mofo SANI ALL 80g NEUTRO",
+    "category_name": null,
+    "external_code": "41204",
+    "ean": "7896965704069",
+    "price": 7.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "87791ed7-e2bc-400b-979a-4611062b54d8",
+    "name": "Amaciante Mon Biju 2 L Harmonia",
+    "category_name": null,
+    "external_code": "5331",
+    "ean": "7891022100631",
+    "price": 8.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "20bc0649-b52c-4139-bde8-59e9fe754ec7",
+    "name": "VINAGRE PAGANINI 500ML BALSAMICO",
+    "category_name": null,
+    "external_code": "40182",
+    "ean": "7898152990392",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c2d0de10-531b-4dba-b1ee-96ab080c25c6",
+    "name": "Café TRES CORACOES 50g EXTRA FORTE REFIL",
+    "category_name": null,
+    "external_code": "4533",
+    "ean": "7896005801154",
+    "price": 3.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0d9b7687-e974-4727-ae53-dbfc87b30b1c",
+    "name": "Farofa FRITZ FRIDA 250g TEMPERADA",
+    "category_name": null,
+    "external_code": "40401",
+    "ean": "7890300314784",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e92a7b70-c695-4213-bd4e-fa137568bc2d",
+    "name": "Caqui chocolate preto kg",
+    "category_name": null,
+    "external_code": "29778",
+    "ean": "",
+    "price": 5.59,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "f8fc83d6-cb25-4704-a8f0-2ea7a126658f",
+    "name": "Sabão Barra Esfrelux 200g Azul",
+    "category_name": null,
+    "external_code": "46120",
+    "ean": "7896314724663",
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "064f124b-2451-4a01-9f4c-b69f9ec99dfb",
+    "name": "Alvejante Q'boa 2lt",
+    "category_name": null,
+    "external_code": "3062",
+    "ean": "7896083800025",
+    "price": 6.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "e49dcf7c-16ae-40c2-a360-c223b70d4ad1",
+    "name": "Sabão Barra Fontana 5x 200g Glicerina",
+    "category_name": null,
+    "external_code": "4249",
+    "ean": "7896012140086",
+    "price": 7.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "10a3a7cc-eb56-4c7f-b4ce-99f1001314a6",
+    "name": "Açúcar Cristal GASPARIN 2kg",
+    "category_name": null,
+    "external_code": "36136",
+    "ean": "7898941416027",
+    "price": 7.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "59ad1286-d8dd-42eb-ade5-5f98ffa39856",
+    "name": "Lustra Calçados Nugget 60ml Preta DESC33%",
+    "category_name": null,
+    "external_code": "41288",
+    "ean": "7891035116551",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6b5cb456-a0cf-4d8b-90b4-f11d674b05a9",
+    "name": "Achocolatado APTI 700g INSTANT POWER PCTE",
+    "category_name": null,
+    "external_code": "16652",
+    "ean": "7896327512509",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "36ccbc3c-2511-464a-901f-96008ab0b81d",
+    "name": "Repelente Xo Mosquito 100ml Loção",
+    "category_name": null,
+    "external_code": "44983",
+    "ean": "7895098874625",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "6c6b0acd-235e-40ad-ae67-7b6a295206fc",
+    "name": "Erva Mate Rei Verde 1kg Nativa Suave Laminada",
+    "category_name": null,
+    "external_code": "20926",
+    "ean": "7898937112155",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "296d687b-c5d7-4f40-a95e-7a070b415f72",
+    "name": "Água Sanitária Aquafast 2L",
+    "category_name": null,
+    "external_code": "37560",
+    "ean": "7898302000179",
+    "price": 5.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f65ab726-a778-42cd-8d7d-b470e6f9f34d",
+    "name": "Sabão em Pó Girando Sol 1kg Lavanda SACHE",
+    "category_name": null,
+    "external_code": "5333",
+    "ean": "7896404606640",
+    "price": 6.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "00bd9fe2-95e2-4fb5-bbbe-c014626aa411",
+    "name": "Limpador Veja 500ml LIMPEZA PESADA FLORAL CAMPEST",
+    "category_name": null,
+    "external_code": "3116",
+    "ean": "7891035245008",
+    "price": 6.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0175af47-43f9-43c5-b3d6-d94d97a91b02",
+    "name": "Nugget 33% 60ml Marrom",
+    "category_name": null,
+    "external_code": "49409",
+    "ean": "7891035116568",
+    "price": 7.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "05d4d1bf-9ba2-4840-b484-b5cd770cc060",
+    "name": "LENTILHA NUTRIROSA 500 G",
+    "category_name": null,
+    "external_code": "10750",
+    "ean": "7898007270495",
+    "price": 5.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "393feac2-dd04-447f-80ab-0da5d4214dfd",
+    "name": "CAFE IGUACU 200 G CAPUCCINO C CHOCOLATE",
+    "category_name": null,
+    "external_code": "22557",
+    "ean": "7896019207294",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "98440d08-afb1-4160-a77c-b7834c2a8575",
+    "name": "Sabão Barra Fontana 5x 200g Azul",
+    "category_name": null,
+    "external_code": "4251",
+    "ean": "7896012140017",
+    "price": 7.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ca681cd0-5042-497e-aee8-0171b7a0f894",
+    "name": "Anti Mofo SANI ALL 80g EUCALIPTO",
+    "category_name": null,
+    "external_code": "41203",
+    "ean": "7896965704083",
+    "price": 7.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5c4be187-3494-4ccf-ae71-727b107ea3ed",
+    "name": "Amaciante Mon Biju 2 L BABY",
+    "category_name": null,
+    "external_code": "5342",
+    "ean": "7891022851762",
+    "price": 8.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a61ec878-ce48-4d1b-ba43-9df0f9148b16",
+    "name": "Álcool LIQ TUPI 1L NEUTRO 46,2 INPM",
+    "category_name": null,
+    "external_code": "43540",
+    "ean": "7898910095185",
+    "price": 5.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d036ac3b-38ed-433d-82f6-f7b52afc9d64",
+    "name": "Sabão Barra Fontana 5x 200g Verde",
+    "category_name": null,
+    "external_code": "4250",
+    "ean": "7896012140079",
+    "price": 7.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f14b95a0-00b3-4ecd-9b34-cdcc6ef284dd",
+    "name": "Acendedor Bastao Fiat Lux ",
+    "category_name": null,
+    "external_code": "40805",
+    "ean": "7896007932931",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b035e7d4-3cbf-4a3b-ac3a-588580fd1f05",
+    "name": "VINHO CONCHA Y TORO RESERVADO 750ML SAUVIGNON BLAN",
+    "category_name": null,
+    "external_code": "23851",
+    "ean": "7804320116815",
+    "price": 35.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "92516052-d2de-44dc-ae11-a06aff67272a",
+    "name": "Cesta Básica 2",
+    "category_name": null,
+    "external_code": "",
+    "ean": "",
+    "price": 85.0,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "97677225-1829-4181-b4c1-69d2ddaf603f",
+    "name": "VINHO CONCHA Y TORO RESERVADO 750ML ROSE",
+    "category_name": null,
+    "external_code": "43967",
+    "ean": "7804320116952",
+    "price": 35.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b2c204ab-8f12-4030-a737-78bcfbf8228b",
+    "name": "Pizza Perdigão Napolitana 460gr",
+    "category_name": null,
+    "external_code": "51025",
+    "ean": "7891515555924",
+    "price": 9.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2fde51b7-cb8d-4574-98f1-13b6343e31cd",
+    "name": "Macarrão Nissin 80g ",
+    "category_name": null,
+    "external_code": "48393",
+    "ean": "7891079013458",
+    "price": 1.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5717b9a6-4e49-4bfb-8cf5-207dae09d67e",
+    "name": "Dueto ervilha e milho 170g",
+    "category_name": null,
+    "external_code": "50444",
+    "ean": "7898930141572",
+    "price": 2.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1bc0a490-4650-45e1-b3d7-ca17ff33ead1",
+    "name": "Couve uni",
+    "category_name": null,
+    "external_code": "29784",
+    "ean": "",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "62eb3674-75d5-4cce-8083-3fc4e1c16b3e",
+    "name": "Alface uni",
+    "category_name": null,
+    "external_code": "30039",
+    "ean": "",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "cee009d1-091f-425c-b955-987bc1d8cc8f",
+    "name": "Aipim c/casca",
+    "category_name": null,
+    "external_code": "29835",
+    "ean": "",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9c14f44f-53f8-4ba8-aea7-af7aedeeebb3",
+    "name": "TEMPERO COMPLETO ODERICH 300 G C PIMENTA",
+    "category_name": null,
+    "external_code": "9903",
+    "ean": "7896041180008",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5c49d5ce-67eb-4e87-9f29-fae02dbaf929",
+    "name": "TEMPERO COMPLETO ODERICH 300 G AVES",
+    "category_name": null,
+    "external_code": "9905",
+    "ean": "7896041180046",
+    "price": 2.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5147aeb7-0fd7-4d33-875e-9007e296c4a9",
+    "name": "Batata doce branca kg",
+    "category_name": null,
+    "external_code": "29772",
+    "ean": "",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b03692b4-eae8-448a-af90-dad6b9a9308c",
+    "name": "Detergente LIMPOL 500ml NEUTRO",
+    "category_name": null,
+    "external_code": "3237",
+    "ean": "7891022638004",
+    "price": 2.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "9025f908-798a-448c-8c29-5cb96c933292",
+    "name": "Wafer Bauducco 140g Triplo Chocolate",
+    "category_name": null,
+    "external_code": "17392",
+    "ean": "7891962037028",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f0bcbd93-3367-4f29-959f-6d6e255480b1",
+    "name": "Massa GALO VERMELHO 500g Parafuso 2",
+    "category_name": null,
+    "external_code": "22327",
+    "ean": "7896022200534",
+    "price": 2.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ec3bb306-639a-47c2-b431-b72c47d24f9c",
+    "name": "Abacaxi uni",
+    "category_name": null,
+    "external_code": "29764",
+    "ean": "",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "bd56c3b9-2799-4ef5-a758-b19abafd200a",
+    "name": "Farinha Trigo PANFACIL 1kg PREMIUM EXTRA CLARA",
+    "category_name": null,
+    "external_code": "46553",
+    "ean": "7898665611593",
+    "price": 2.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ba9a7a34-3872-4fa4-b889-920f23184e52",
+    "name": "Creme de Leite Frimesa 200g Leve Light",
+    "category_name": null,
+    "external_code": "16671",
+    "ean": "7896275960582",
+    "price": 2.77,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "339ff96c-eeda-4ab8-8c2a-f8776dfbb0f1",
+    "name": "laranja do céu kg",
+    "category_name": null,
+    "external_code": "29790",
+    "ean": "",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "83d6f10c-c748-4dfb-868d-5902e42f1218",
+    "name": "Esfregão de Aço Sani All 14g c/ 02",
+    "category_name": null,
+    "external_code": "14639",
+    "ean": "7896965702454",
+    "price": 3.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "07f14ed7-e4ce-41f3-be87-f034d665fc47",
+    "name": "MAIONESE HELLMANNS 200G SACHE",
+    "category_name": null,
+    "external_code": "9378",
+    "ean": "7894000030470",
+    "price": 3.79,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "357bb6c7-291e-4293-8b5b-1cd26ee895af",
+    "name": "BISCOITO GERMANI 350G MIGNON",
+    "category_name": null,
+    "external_code": "22221",
+    "ean": "7898045271829",
+    "price": 3.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2aa471ec-8f68-41af-9455-f7417f24b5be",
+    "name": "Biscoito Renata 360g Água e Sal",
+    "category_name": null,
+    "external_code": "11756",
+    "ean": "7896022205232",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "612b4304-3a58-4498-85d9-cb5fe0b2ed84",
+    "name": "EXTRATO TOMATE CAJAMAR 350 G LATA",
+    "category_name": null,
+    "external_code": "8470",
+    "ean": "7891300902124",
+    "price": 3.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2a4c1fb9-608f-40b7-842e-f06af2823d76",
+    "name": "Macarrão Cup Noodles Galinha/ Teriyaki",
+    "category_name": null,
+    "external_code": "47788",
+    "ean": "7891079013045",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "84748abd-0c2d-4386-a7a3-1e792fd72b95",
+    "name": "Farinha de Trigo Maria Ines 1 kg",
+    "category_name": null,
+    "external_code": "10947",
+    "ean": "7896315400016",
+    "price": 3.5,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "328e74cb-9641-4bcb-84b3-8a33d2db7eb8",
+    "name": "Café TRES CORACOES 50g Tradicional SOLUVEL SACHE",
+    "category_name": null,
+    "external_code": "22151",
+    "ean": "7896005800683",
+    "price": 3.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b51f20fd-e888-4fe9-b649-9af8925d6dd1",
+    "name": "BISCOITO PARATI 150G HOT CRACKER CHURRAS",
+    "category_name": null,
+    "external_code": "47762",
+    "ean": "7896011108520",
+    "price": 3.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "75a329b7-2d01-47b0-b54d-114c7333ebc4",
+    "name": "Biscoito Zeze 200g Mignon",
+    "category_name": null,
+    "external_code": "22104",
+    "ean": "7896200021364",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "749c08ad-8956-4dd1-840b-649f0af3e8ca",
+    "name": "Tomate longa vida kg",
+    "category_name": null,
+    "external_code": "29817",
+    "ean": "",
+    "price": 5.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a677d777-63ec-49e7-9078-ff5527086e90",
+    "name": "Manga tommy kg",
+    "category_name": null,
+    "external_code": "29799",
+    "ean": "",
+    "price": 4.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c803cf5f-0eb1-4a70-8cc8-35dacc4bc58d",
+    "name": "Leite Condensado Elege 395g Tradicional",
+    "category_name": null,
+    "external_code": "23018",
+    "ean": "7896079510976",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b568b2c9-4c07-4204-b99d-65c6e7f29e5e",
+    "name": "Sabão em Pó TIXAN YPE 1kg Primavera",
+    "category_name": null,
+    "external_code": "5336",
+    "ean": "7896098900710",
+    "price": 8.95,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "53c58925-12dd-4545-bb89-2e6bd15896a0",
+    "name": "Pernil suino c/osso congelado",
+    "category_name": null,
+    "external_code": "29863",
+    "ean": "",
+    "price": 12.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "9feacb4d-a92a-42e1-8212-541b680e92e1",
+    "name": "Açúcar Cristal GASPARIN 5kg",
+    "category_name": null,
+    "external_code": "36271",
+    "ean": "7898941416034",
+    "price": 17.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "bb114d28-5976-429e-ad01-2353e4e5e58d",
+    "name": "Massa ORQUIDEA 500g Espaguete",
+    "category_name": null,
+    "external_code": "22767",
+    "ean": "7896412800092",
+    "price": 3.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "61af5660-640a-4076-98ec-d8ae642fd7b7",
+    "name": "Erva Mate Seiva Pura 1kg Nativa Tradicional",
+    "category_name": null,
+    "external_code": "11138",
+    "ean": "7896616600146",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "64cc8f11-27d2-434c-8131-74880a31645b",
+    "name": "Isotonico Gatorade 500ml",
+    "category_name": null,
+    "external_code": "8570",
+    "ean": "7892840808174",
+    "price": 3.77,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "66face4b-c01b-4a34-98f6-e87b5e30f6fc",
+    "name": "Massa Parati 500g Ninho Largo",
+    "category_name": null,
+    "external_code": "22350",
+    "ean": "7896011107028",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "fc059ba5-e95d-4552-a601-935d688074da",
+    "name": "Achocolatado NESCAU 400g ACTIGEN-E 2.0",
+    "category_name": null,
+    "external_code": "3038",
+    "ean": "7891000053508",
+    "price": 5.98,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a0c16496-41bf-4bc2-b42a-b0990ddc4b85",
+    "name": "Limpador Veja Multiuso FUSION 500ml",
+    "category_name": null,
+    "external_code": "46747",
+    "ean": "7891035990571",
+    "price": 7.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "04d9b371-389c-478f-b24d-e3c6a4986322",
+    "name": "Pimentão verde kg",
+    "category_name": null,
+    "external_code": "29811",
+    "ean": "",
+    "price": 5.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "41dfa85f-6214-412f-991a-59fc888efbf5",
+    "name": "Café Iguacu 200g Capuccino CONFEITOS Chocolate",
+    "category_name": null,
+    "external_code": "18079",
+    "ean": "7896019208918",
+    "price": 8.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2a1007b4-a1ad-475e-a1bb-a65961df3e22",
+    "name": "Sanitizante Brilhante 800g ",
+    "category_name": null,
+    "external_code": "47890",
+    "ean": "7891150066571",
+    "price": 9.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c63cc91c-f310-4235-b805-d0cf946518b0",
+    "name": "SABAO PO TIXAN YPE 1KG MACIEZ",
+    "category_name": null,
+    "external_code": "5335",
+    "ean": "7896098900741",
+    "price": 8.95,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "87f0aadc-0f2f-48a6-9fe3-f35241ac5bfb",
+    "name": "Erva Mate Elacy 1kg Moída Grossa Laminada",
+    "category_name": null,
+    "external_code": "18902",
+    "ean": "7896558552404",
+    "price": 11.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "282ce5d5-bd0d-44d2-be91-39d65857fe7d",
+    "name": "Erva Mate Rei Verde 1kg Nativa Grossa s/ Açucar",
+    "category_name": null,
+    "external_code": "22289",
+    "ean": "7898937112186",
+    "price": 12.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "60523b65-1e8b-4d5f-82b5-5a12c6a6d733",
+    "name": "Biscoito Orquidea 400g Gergelin",
+    "category_name": null,
+    "external_code": "17028",
+    "ean": "7896412801679",
+    "price": 5.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "0621f2d2-072a-439c-9f6a-7d787cb620a2",
+    "name": "Café BOM JESUS 500g Tradicional",
+    "category_name": null,
+    "external_code": "33894",
+    "ean": "7896035733326",
+    "price": 14.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "7bea9217-97e9-4b2e-9611-139e21430ab2",
+    "name": "Farinha Trigo PANFACIL 5kg PREMIUM EXTRA CLARA",
+    "category_name": null,
+    "external_code": "46560",
+    "ean": "7898665611609",
+    "price": 13.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f429505d-47c9-400a-92a5-ec8ced19bf7a",
+    "name": "VINHO JOTA PE 3L TTO SUAVE",
+    "category_name": null,
+    "external_code": "13191",
+    "ean": "7896452115040",
+    "price": 44.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "2182e9ae-3827-481e-bd6b-3648a6c2b2e1",
+    "name": "Maminha Resf. Friboi Kg ",
+    "category_name": null,
+    "external_code": "30621",
+    "ean": "",
+    "price": 47.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "562ab36e-d4b1-4c90-b7dc-a1c383e89771",
+    "name": "Café Iguacu 50g SOLUVEL REFIL Tradicional",
+    "category_name": null,
+    "external_code": "22182",
+    "ean": "7896019205115",
+    "price": 3.69,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f58ebb37-2ac9-4c31-af0a-ed4059177636",
+    "name": "FARINHA TRIGO ORQUIDEA 1 KG",
+    "category_name": null,
+    "external_code": "4217",
+    "ean": "7896412819520",
+    "price": 3.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "d7b44998-3bfa-4630-8d2c-130d54720921",
+    "name": "Massa Isabela 500g Parafuso",
+    "category_name": null,
+    "external_code": "22441",
+    "ean": "7896022033026",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "50cd7d49-8671-41f3-81cc-4afec11ecf31",
+    "name": "Amaciante Girando Sol 02 L VERDE HERBAL",
+    "category_name": null,
+    "external_code": "3079",
+    "ean": "7896404600044",
+    "price": 6.89,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "19103383-2bea-4315-8b4d-339e9a219ab9",
+    "name": "Cebola kg",
+    "category_name": null,
+    "external_code": "29569",
+    "ean": "",
+    "price": 1.48,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "ef7adc8b-e84e-4e0f-9593-7bc6648bd01f",
+    "name": "Macarrão instantâneo Stella d'Oro legumes",
+    "category_name": null,
+    "external_code": "27124",
+    "ean": "7898930141749",
+    "price": 0.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "cc4e1c6e-c287-4e8d-a92e-86618f42ea78",
+    "name": "Sal Apolo 1kg REFINADO",
+    "category_name": null,
+    "external_code": "11729",
+    "ean": "7896027920017",
+    "price": 1.29,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "f485fae6-43bc-48eb-b98b-263c60c56508",
+    "name": "Creme de Leite Dalia 200g",
+    "category_name": null,
+    "external_code": "36101",
+    "ean": "732783810261",
+    "price": 1.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "aaf84dea-9e61-4215-ab17-5eb561b1b2df",
+    "name": "Escova Fricci Plastica Plus",
+    "category_name": null,
+    "external_code": "44420",
+    "ean": "7898650900442",
+    "price": 2.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "5876a19c-ea43-45c9-83cd-7c893407cd11",
+    "name": "Achocolatado BATAVO 01 L TP CHOCO MILK",
+    "category_name": null,
+    "external_code": "8589",
+    "ean": "7891097012952",
+    "price": 7.19,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "634d3ff2-6275-442d-ba71-0bfdfe3c527e",
+    "name": "Café NESCafé 160g ORIGINAL VIDRO",
+    "category_name": null,
+    "external_code": "46195",
+    "ean": "7891000284193",
+    "price": 11.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "b48ca26b-a91d-4b4b-939f-d10acde6570e",
+    "name": "Costela suina  KG CONGELADA ( OFERTA )",
+    "category_name": null,
+    "external_code": "29868",
+    "ean": "",
+    "price": 18.9,
+    "paused": true,
+    "stock": 0.0
+  },
+  {
+    "id": "278306a2-2888-4660-8443-2b2381f02183",
+    "name": "Farinha de Trigo Maria Ines Integral 1kg ",
+    "category_name": null,
+    "external_code": "16144",
+    "ean": "7896315400153",
+    "price": 4.49,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c2b36e8f-1fde-41a4-b566-221d1e980982",
+    "name": "Farinha de Trigo Maria Ines 5 kg",
+    "category_name": null,
+    "external_code": "10943",
+    "ean": "7896315400023",
+    "price": 14.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "a98714cf-e6f5-4959-9f91-cffb30f0ae19",
+    "name": "Farinha de Trigo Maria Ines com Fermento 1kg ",
+    "category_name": null,
+    "external_code": "24591",
+    "ean": "7896315400146",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "3b39b149-29b3-41a0-9858-5e2acd44fe03",
+    "name": "Café Melitta 50g SOLUVEL PO SACHE EXTRA FORTE",
+    "category_name": null,
+    "external_code": "18880",
+    "ean": "7891021008501",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "234045b9-33f0-4259-89c4-f0f0d50d45f9",
+    "name": "Arroz Fighera 5kg BRANCO T1",
+    "category_name": null,
+    "external_code": "13572",
+    "ean": "781596139656",
+    "price": 21.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "4ae7798d-b2c9-4699-8dd3-bb1334d5cb5c",
+    "name": "Amaciante ROUPA Q BOA 500ml CONCENTRADO GLAMOUR",
+    "category_name": null,
+    "external_code": "46289",
+    "ean": "789608380096",
+    "price": 4.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c1973533-1836-4118-a4cc-9d28e609e9f0",
+    "name": "Vinho Travessa 750ml",
+    "category_name": null,
+    "external_code": "41153",
+    "ean": "7730540000644",
+    "price": 18.9,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "523d03e4-00ef-40db-bb27-d3e613bba8dc",
+    "name": "Sorvete Nestle 1,5Lt",
+    "category_name": null,
+    "external_code": "51513",
+    "ean": "7899975802466",
+    "price": 14.79,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "196e20f0-4672-4bd4-9695-c145696d11d0",
+    "name": "Leite Po Elege 200g Desnatado",
+    "category_name": null,
+    "external_code": "20740",
+    "ean": "7896079510839",
+    "price": 6.39,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "c3a83e06-db9e-48a6-8e48-ec996fa2e703",
+    "name": "Farinha Mandioca Maniva 520g TORRADA FINA PET",
+    "category_name": null,
+    "external_code": "44486",
+    "ean": "7898222750741",
+    "price": 3.99,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "18da59ff-a228-4a9f-8739-12fb12c804b1",
+    "name": "MAIONESE ODERICH 170G C/LIMAO",
+    "category_name": null,
+    "external_code": "9531",
+    "ean": "7896041190649",
+    "price": 4.59,
+    "paused": false,
+    "stock": 0.0
+  },
+  {
+    "id": "1e1bc759-6eff-4a5c-9edd-a2b5a8452a47",
+    "name": "Macarrão Cup Noodles Galinha Caipira ",
+    "category_name": null,
+    "external_code": "47782 ",
+    "ean": "",
+    "price": 2.69,
+    "paused": true,
+    "stock": 0.0
+  }
+]

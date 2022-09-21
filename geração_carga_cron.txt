@@ -1,0 +1,8 @@
+#geracao de carga
+0 4 * * * date > /var/log/geracarga.log && curl http://127.0.0.1/sw/prc_geraplu_cron/prc_geraplu_cron.php >> /var/log/geracarga.log
+
+#importacao de venda
+0 1 * * * date > /var/log/impvenda.log && curl http://127.0.0.1/sw/apo_impmov_cron/apo_impmov_cron.php >> /var/log/impvenda.log
+
+#desempenho
+0 3 * * * date > /var/log/desempenho.log && curl http://127.0.0.1/sw/blk_desempenhoForn/blk_desempenhoForn.php >> /var/log/desempenho.log

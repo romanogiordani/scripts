@@ -7,6 +7,6 @@
       Scripts disponíveis:
         Impressão de etiquetas Windows - etq.bat (apenas trocar as variáveis)
         Backup Mysql - rotina de backup diário (inserir na cron para rodar diariamente e criar as pastas de backup)
-        SFTP pra subir arquivos para nuvem parce
+        SFTP Parce - comandos pra subir arquivos para nuvem parce
         Geração Carga Cron - rotinas de carga / importação de venda / calculo de desempenho para inserir na crontab de clientes linux
         Documentacao parce - arquivos de documentação e manuais feitos por Nicolas

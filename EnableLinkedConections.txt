@@ -1,0 +1,7 @@
+No Registro Editor, localize e clique na subchave do registro a seguir:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+Clique com o botão direito do mouse em Configuração, selecione Novo e, em seguida, selecione Valor DWORD (32 bits).
+Nomeie a nova entrada do registro como EnableLinkedConnections.
+Clique duas vezes na entrada do registro EnableLinkedConnections .
+Na caixa de diálogo Editar Valor DWORD , digite 1 no campo Dados de valor e selecione OK.
+Saia do Editor do Registro e reinicie o computador.

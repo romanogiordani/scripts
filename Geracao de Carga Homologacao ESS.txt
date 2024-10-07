@@ -1,0 +1,17 @@
+Fazer todo o processo apenas em Homologacao para clientes nao fechados com a ESS
+
+Atualizar lib ess blt_consulta_ESS.php (verificar TOKEN!!!) /sw/_lib/etc/Apis/
+
+Dentro da lib blt_consulta_ESS.php  trocar a variavel token pela fornecida ESS
+
+atualizar tabela tmp_ess_cad_fornec (pegar do 159)
+atualizar tabela apo_ess_log(pegar do 159)
+
+Atualizar blk_ess_carga
+
+Rodar a tela no navegador
+
+Verificar erro na tela e se a tabela apo_ess_log esta recebendo dados
+
+rodar todas as mercadorias
+
